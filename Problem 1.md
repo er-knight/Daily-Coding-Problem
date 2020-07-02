@@ -45,7 +45,7 @@ print(pairSum(numList, K))
 - **Sort the given list.**  
 - **Take two pointers, pointing two start and end of the list, respectively and increase/decrease their value based on the condition.**
 
-***Time Complexity - O(nlogn) = O(nlogn) + O(n) = (Time Complexity of loop + Time Complexity of sort()).***  
+***Time Complexity - O(nlogn) = O(nlogn) + O(n) = (Time Complexity of loop) + (Time Complexity of sort()).***  
 ***Space Complexity - O(1), because extra space is not used.***  
 ### Code (Python)
 ```python
@@ -55,12 +55,12 @@ def pairSum(numList, K):
   
   while start < end:
     if numList[start] + numList[end] == K:
-      return "True"
+      return True
     elif numList[start] + numList[end] < K:
       start += 1
     else:
       end -= 1
-  return "False"
+  return False
 
 numList = [int(x) for x in input().split()]
 K = int(input())
