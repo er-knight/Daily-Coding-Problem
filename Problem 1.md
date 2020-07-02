@@ -44,6 +44,9 @@ print(check(myList, K))
 ### Approach 2: Two-Pointers Technique
 - **Sort the given list.**  
 - **Take two pointers, pointing two start and end of the list, respectively and increase/decrease their value based on the condition.**
+
+***Time Complexity - O(nlogn), where n is length of the list.***  
+***Space Complexity - O(1), because extra space is not used.***  
 ### Code (Python)
 ```python
 ```
