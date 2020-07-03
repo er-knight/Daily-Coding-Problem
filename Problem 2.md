@@ -22,8 +22,23 @@
 - **at index 0 -> 2 = 2 * 1.**
 - **at index 1 -> 3 = 3 * 1.**
 - **at index 2 -> 6 = 3 * 2.**
+### Approach 1: Using Division
+- **Calculate PRODUCT of all elements of the original array.**
+- **Divide the PRODUCT by element at index** ***i*** **and store the resulting value in the new array at index** ***i.***
 ### Code (Python)
 ```python
+def product(array):
+    product_ = 1
+    for i in array:
+        product_ *= i
+    return product_
+
+array = [int(x) for x in input().split()]
+new_array = []
+for i in array:
+    new_array.append(product(array)//i)
+
+print(new_array)
 ```
 ### Code (C++)
 ```cpp
