@@ -43,3 +43,20 @@ print(new_array)
 ### Code (C++)
 ```cpp
 ```
+### Approach 2: Without Division
+- **Calculate PRODUCT of all elements, except element at index** ***i.*** **and store that PRODUCT in the new array at index** ***i.***
+```python
+def product(array, i):
+    product_ = 1
+    for x in array:
+        if not(x == i):
+            product_ *= x
+    return product_
+
+array = [int(x) for x in input().split()]
+new_array = []
+for i in array:
+    new_array.append(product(array, i))
+
+print(new_array)
+```
