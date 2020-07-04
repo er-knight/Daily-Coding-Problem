@@ -3,9 +3,11 @@
 
 ### Task
 **Given a list of numbers and a number K, return whether any two numbers from the list add up to K.** 
-- **First line of input contains space seperated elements of list.**  
-- **Second line of input contains K.**
+- **First line of input contains size of the list.**
+- **Second line of input contains space seperated elements of the list.**  
+- **Third line of input contains K.**
 ### Sample Input
+**4**  
 **10 15 3 7**  
 **17**
 ### Sample Output
@@ -13,6 +15,7 @@
 ### Explanation
 **10 + 7 = 17. Hence we return True.**
 ### Sample Input
+**4**  
 **10 15 3 7**  
 **16**
 ### Sample Output
@@ -33,13 +36,40 @@ def pairSum(numList, K):
             if (i + j) == K:
                 return True
     return False
-
+size = int(input())
 numList = [int(x) for x in input().split()]
 K = int(input())
 print(pairSum(numList, K))
 ```
 ### Code (C++)
 ```cpp
+#include <iostream>
+#include <vector>
+#include <algorithm>
+using namespace std;
+
+bool pairSum(vector<int> &numList, int K){
+  for (int i=0; i<numList.size(); i++){
+    for (int j=0; j<numList.size(); j++){
+      if (numList[i] + numList[j] == K)
+        return true;
+    }
+  }
+  return false;
+}
+
+int main(){
+  vector<int> numList;
+  int size, K, n;
+  cin>>size;
+  for (int i=0; i<size; i++){
+    cin>>n;
+    numList.push_back(n);
+  }
+  cin>>K;
+  cout<<(pairSum(numList, K) ? "True" : "False");
+  return 0;
+}
 ```
 ### Approach 2: Two-Pointers Technique
 - **Sort the given list.**  
@@ -62,10 +92,42 @@ def pairSum(numList, K):
       end -= 1
   return False
 
+size = int(input())
 numList = [int(x) for x in input().split()]
 K = int(input())
 print(pairSum(numList, K))
 ```
 ### Code (C++)
 ```cpp
+#include <iostream>
+#include <vector>
+#include <algorithm>
+using namespace std;
+
+bool pairSum(vector<int> &numList, int K){
+  int start = 0, end = (numList.size() - 1);
+  sort(numList.begin(), numList.end());
+  while (start < end){
+    if (numList[start] + numList[end] == K)
+      return true;
+    else if(numList[start] + numList[end] < K)
+      start += 1;
+    else
+      end -= 1;
+  }
+  return false;
+}
+
+int main(){
+  vector<int> numList;
+  int size, K, n;
+  cin>>size;
+  for (int i=0; i<size; i++){
+    cin>>n;
+    numList.push_back(n);
+  }
+  cin>>K;
+  cout<<(pairSum(numList, K) ? "True" : "False");
+  return 0;
+}
 ```
