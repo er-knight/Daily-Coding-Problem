@@ -5,6 +5,7 @@
 - **First line of input contains size of an array.**
 - **Second line of input contains elements of an array seperated by space.**
 ### Sample Input
+**5**  
 **1 2 3 4 5** 
 ### Sample Output
 **120 60 40 30 24**
@@ -16,6 +17,7 @@
 - **at index 3 ->  30 = 1 * 2 * 3 * 5.**
 - **at index 4 ->  24 = 1 * 2 * 3 * 4.**
 ### Sample Input
+**3**  
 **3 2 1** 
 ### Sample Output
 **2 3 6**
