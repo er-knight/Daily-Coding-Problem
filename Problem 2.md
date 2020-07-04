@@ -42,9 +42,38 @@ print(new_array)
 ```
 ### Code (C++)
 ```cpp
+#include <iostream>
+#include <vector>
+using namespace std;
+
+int product(vector<int> &arr){
+  int product_ = 1;
+  for (auto i: arr){
+    product_ *= i;
+  }
+  return product_;
+}
+
+int main() {
+  vector<int> arr; 
+  vector<int> new_array;
+  int size, n;
+  cin>>size;
+  for (int i=0; i<size; i++){
+    cin>>n;
+    arr.push_back(n);
+  }
+  for (int j=0; j<arr.size(); j++){
+    new_array.push_back(product(arr)/arr[j]);
+  }
+  for(auto k: new_array){
+    cout<<k<<" ";
+  }
+  return 0;
+}
 ```
 ### Approach 2: Without Division
-- **Calculate PRODUCT of all elements, except element at index** ***i.*** **and store that PRODUCT in the new array at index** ***i.***
+- **Calculate PRODUCT of all elements, except element at index** ***i*** **and store that PRODUCT in the new array at index** ***i.***
 ```python
 def product(array, i):
     product_ = 1
