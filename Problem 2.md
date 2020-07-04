@@ -3,7 +3,7 @@
 ### Task
 **Given an array of integers, return a new array such that each element at index** ***i*** **of the new array is the product of all the numbers in the original array except the one at** ***i.***
 - **First line of input contains size of an array.**
-- **Second line of input contains elements of the array seperated by space.**
+- **Second line of input contains elements of an array seperated by space.**
 ### Sample Input
 **1 2 3 4 5** 
 ### Sample Output
