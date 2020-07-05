@@ -24,7 +24,8 @@
 > **Iterate through integers from 1 to MAX of array, check for every integer if it is present in the array.**
 >> **If any integer is not present, then print that element and break the loop.**  
 >> **Else print MAX + 1.**
-***Time Complexity - O(n).***
+
+***Time Complexity - O(n).***  
 ***Space Complexity - O(1).***
 ### Code (Python)
 ```python
