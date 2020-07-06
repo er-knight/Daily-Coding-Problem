@@ -66,4 +66,4 @@ int main() {
   return 0;
 }
 ```
-
+***[Back to Previous Page](https://github.com/theInvincible/Daily-Coding-Problem/)***
