@@ -1,5 +1,5 @@
 ## Daily-Coding-Problem
-***[Subscribe]( https://www.dailycodingproblem.com/) to Daily Coding Problem***
+***[Subscribe]( https://www.dailycodingproblem.com/) to Daily Coding Problem.***
 
 - **[Problem 1](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%201.md)**
 - **[Problem 2](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%202.md)**  
