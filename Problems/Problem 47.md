@@ -12,3 +12,17 @@
 **Reference**
 >**[Youtube](https://www.youtube.com/watch?v=hOLSBR7eN4g)**  
 >**[LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)**
+
+**Simple Logic**
+***Not Tested.***
+```
+for (current_price in prices) {
+  if(current_min_price is less than current_price) {
+    current_min_price = current_price
+    current_max_price = current_price
+  }
+  else if (current_max_price is greater than current_price) {
+    current_max_price = current_price
+  }
+}
+```
