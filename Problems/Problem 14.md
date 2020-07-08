@@ -1,7 +1,7 @@
 ## Problem 14
 ***Asked by Google.***
 ### Task
-**The area of a circle is defined as πr<sup>2</sup>. Estimate π upto 3 decimal places using a [Monte-Carlo method](https://towardsdatascience.com/an-overview-of-monte-carlo-methods-675384eb1694).**
+**The area of a circle is defined as πr<sup>2</sup>. Estimate π upto 3 decimal places using [Monte-Carlo method](https://towardsdatascience.com/an-overview-of-monte-carlo-methods-675384eb1694).**
 
 **Hint: The basic equation of a circle is x<sup>2</sup> + y<sup>2</sup> = r<sup>2</sup>.**
 ### Code (Python)
