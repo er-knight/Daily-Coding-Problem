@@ -29,7 +29,7 @@
 ### Approach 1: Using Division
 - **Calculate PRODUCT of all elements of the original array.**
 - **Divide the PRODUCT by element at index** ***i*** **and store the resulting value in the new array at index** ***i.***
-### Code (Python)
+### Solution | Python
 ```python
 def product(array):
     product_ = 1
@@ -45,7 +45,7 @@ for i in array:
 
 print(new_array)
 ```
-### Code (C++)
+### Solution | C++
 ```cpp
 #include <iostream>
 #include <vector>
@@ -79,7 +79,7 @@ int main() {
 ```
 ### Approach 2: Without Division
 - **Calculate PRODUCT of all elements, except element at index** ***i*** **and store that PRODUCT in the new array at index** ***i.***
-### Code (Python)
+### Solution | Python
 ```python
 def product(array, i):
     product_ = 1
@@ -96,7 +96,20 @@ for i in array:
 
 print(new_array)
 ```
-### Code (C++)
+### Short Solution | Python
+```python
+from functools import reduce
+
+array = [int(x) for x in input().split()]
+newArray = []
+
+for i in array:
+  newArray.append(reduce(lambda x, y: x * y, [x for x in array if not(x == i)]))
+
+print(newArray)
+```
+
+### Solution | C++ 
 ```cpp
 #include <iostream>
 #include <vector>
