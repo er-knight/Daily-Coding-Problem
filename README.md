@@ -8,6 +8,7 @@
 - **[Problem 5](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%205.md)**
 - **[Problem 6](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%206.md)**
 - **[Problem 14](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2014.md)**
+- **[Problem 26](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2026.md) | Singly Linked List | Remove**
 - **[Problem 29](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2029.md)**
 - **[Problem 38](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2038.md) | N Queens Problem**
 - **[Problem 39](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2039.md) | Conway's Game of Life**
