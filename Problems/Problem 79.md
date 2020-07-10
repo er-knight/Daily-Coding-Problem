@@ -19,5 +19,22 @@ if decreaseCount > 1:
 else:
   return True
 ```
-
+```python
+# tested at above leetcode problem 311/325 test case passed 
+class Solution:
+    def checkPossibility(self, nums: List[int]) -> bool:
+        count = 0
+        for i in range(len(nums)-1):
+            if not(nums[i] <= nums[i+1]):
+                count += 1
+        if count > 1:
+            return False
+        return True
+"""
+Input: [3,4,2,3]
+Output: true
+Expected: false
+"""
+# here above it given one of wrong output.
+```
 
