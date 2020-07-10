@@ -6,3 +6,7 @@
 **For example, [2, 4, 6, 2, 5] should return 13, since we pick 2, 6, and 5. [5, 1, 1, 5] should return 10, since we pick 5 and 5.**
 
 **Follow-up: Can you do this in O(N) time and constant space?**
+
+>**Refer Here: [GeekforGeeks](https://www.geeksforgeeks.org/maximum-sum-such-that-no-two-elements-are-adjacent/), [Medium](https://medium.com/@arunistime/maximum-sum-of-non-adjacent-numbers-algorithm-explained-159f08b5790a)**
+
+>**Practice Here: [GeekforGeeks](https://practice.geeksforgeeks.org/problems/stickler-theif/0)**
