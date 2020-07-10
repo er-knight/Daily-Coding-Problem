@@ -10,3 +10,14 @@
 >**Refer Here: [BlogSpot](http://nirajsdatabase.blogspot.com/2017/08/given-array-with-n-integers-your-task.html), [LeetCode Article](https://leetcode.com/articles/non-decreasing-array/), [GitBook1](https://hjweds.gitbooks.io/leetcode/greedy/non-decreasing-array.html), [GitBook2](https://twchen.gitbook.io/leetcode/array/non-decreasing-array)**
 >**Practice Here: [LeetCode](https://leetcode.com/problems/non-decreasing-array/)**
 
+```
+for i in range(len(array)-1):
+  if not (array[i] <= array[i+1]):
+    decreaseCount += 1
+if decreaseCount > 1:
+  return False
+else:
+  return True
+```
+
+
