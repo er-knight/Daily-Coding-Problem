@@ -4,7 +4,7 @@
 - **[Problem 1](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%201.md) | Two Sum**
 - **[Problem 2](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%202.md) | Product except** ***i***  
 - **[Problem 3](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%203.md) | Binary Tree | Serialize & Deserialize**  
-- **[Problem 4](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%204.md)**  
+- **[Problem 4](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%204.md) | Missing Positive Integer**  
 - **[Problem 5](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%205.md)**
 - **[Problem 6](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%206.md)**
 - **[Problem 7](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%207.md)**
