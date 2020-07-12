@@ -71,7 +71,7 @@
 - [ ] **[Problem 68](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2068.md) | N Bishops Problem**
 - [ ] **[Problem 69](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2069.md) | Largest Product of Three Elements**
 - [ ] **[Problem 70](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2070.md) | N<sup>th</sup> Perfect Number**
-- [ ] **[Problem 71](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2071.md) | Implement Random5 from Random7 | Implementation **
+- [ ] **[Problem 71](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2071.md) | Implement Random5 from Random7 | Implementation**
 - [ ] **[Problem 72](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2072.md) | Largest Value Path | Graph**
 - [ ] **[Problem 73](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2073.md) | Singly Linked List | Reverse**
 - [ ] **[Problem 74](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2074.md) | Number of X in Multiplication Tables**
