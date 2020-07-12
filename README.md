@@ -15,21 +15,21 @@
 - [ ] **[Problem 12](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2012.md) | Unique Ways to Climb Staircase**
 - [ ] **[Problem 13](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2013.md) | Longest Substring with Distinct Characters**
 - [x] **[Problem 14](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2014.md) | pi Monte-Carlo**
-- **[Problem 15](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2015.md) | **
-- **[Problem 16](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2016.md)**
-- **[Problem 17](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2017.md)**
-- **[Problem 18](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2018.md)**
-- **[Problem 19](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2019.md)**
-- **[Problem 20](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2020.md)**
-- **[Problem 21](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2021.md)**
-- **[Problem 22](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2022.md)**
-- **[Problem 23](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2023.md)**
-- **[Problem 24](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2024.md)**
-- **[Problem 25](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2025.md)**
-- **[Problem 26](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2026.md) | Singly Linked List | Remove**
-- **[Problem 27](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2027.md)**
-- **[Problem 28](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2028.md)**
-- **[Problem 29](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2029.md)**
+- [ ] **[Problem 15](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2015.md) | Random Element from Large Stream**
+- [ ] **[Problem 16](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2016.md) | Last N Logs**
+- [ ] **[Problem 17](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2017.md) | Longest Absolute Path**
+- [ ] **[Problem 18](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2018.md) | Maximum in Each Subarray**
+- [ ] **[Problem 19](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2019.md) | Minimum Cost but Distinct Colors**
+- [ ] **[Problem 20](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2020.md) | Singly Link Lists | Intersecting Node**
+- [ ] **[Problem 21](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2021.md) | Minimum Rooms with Overlapping Lectures**
+- [ ] **[Problem 22](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2022.md) | Words and Sentence**
+- [ ] **[Problem 23](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2023.md) | Path with Minimum Steps**
+- [ ] **[Problem 24](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2024.md) | Binary Tree | Locked & Unlocked**
+- [ ] **[Problem 25](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2025.md) | Regular Expressions | Implementation**
+- [ ] **[Problem 26](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2026.md) | Singly Linked List | Remove**
+- [ ] **[Problem 27](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2027.md) | Balancing Brackets**
+- [ ] **[Problem 28](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2028.md) | Justify Text**
+- [x] **[Problem 29](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2029.md) | Run-Length Encoding**
 - **[Problem 30](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2030.md)**
 - **[Problem 31](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2031.md)**
 - **[Problem 32](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2032.md)**
