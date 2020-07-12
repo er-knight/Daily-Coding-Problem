@@ -20,10 +20,10 @@
 **[5, 4, 3, 2, 1] has ten inversions: every distinct pair forms an inversion.**
 
 ### Approach 
->**Apply BUBBLE SORT on the given array.**
+>**Apply BUBBLE SORT on the given array.**  
 >**At each swap of adjacent element, increment the COUNT.**
 
-***Time Complexity - O(n^2) - because of 2 loops.***    
+***Time Complexity - O(n^2) - because of 2 loops.***     
 ***Space Complexity - O(n) - no extra space is used, except for the array.***
 
 ### Code | Python
