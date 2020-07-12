@@ -5,11 +5,11 @@
 - **[Problem 2](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%202.md) | Product except** ***i***  
 - **[Problem 3](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%203.md) | Binary Tree | Serialize & Deserialize**  
 - **[Problem 4](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%204.md) | Missing Positive Integer**  
-- **[Problem 5](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%205.md)**
-- **[Problem 6](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%206.md)**
-- **[Problem 7](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%207.md)**
-- **[Problem 8](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%208.md)**
-- **[Problem 9](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%209.md)**
+- **[Problem 5](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%205.md) | Function as a Parameter**
+- **[Problem 6](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%206.md) | XOR Linked List | Implementation**
+- **[Problem 7](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%207.md) | Encoding and Decoding**
+- **[Problem 8](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%208.md) | Unival Tree**
+- **[Problem 9](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%209.md) | Largest Non-adjacent Sum**
 - **[Problem 10](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2010.md) | Job Schedular**
 - **[Problem 11](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2011.md)**
 - **[Problem 12](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2012.md)**
