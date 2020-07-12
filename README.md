@@ -7,12 +7,75 @@
 - **[Problem 4](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%204.md)**  
 - **[Problem 5](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%205.md)**
 - **[Problem 6](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%206.md)**
+- **[Problem 7](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%207.md)**
+- **[Problem 8](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%208.md)**
+- **[Problem 9](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%209.md)**
 - **[Problem 10](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2010.md) | Job Schedular**
+- **[Problem 11](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2011.md)**
+- **[Problem 12](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2012.md)**
+- **[Problem 13](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2013.md)**
 - **[Problem 14](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2014.md)**
+- **[Problem 15](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2015.md)**
+- **[Problem 16](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2016.md)**
+- **[Problem 17](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2017.md)**
+- **[Problem 18](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2018.md)**
+- **[Problem 19](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2019.md)**
+- **[Problem 20](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2020.md)**
+- **[Problem 21](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2021.md)**
+- **[Problem 22](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2022.md)**
+- **[Problem 23](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2023.md)**
+- **[Problem 24](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2024.md)**
+- **[Problem 25](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2025.md)**
 - **[Problem 26](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2026.md) | Singly Linked List | Remove**
+- **[Problem 27](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2027.md)**
+- **[Problem 28](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2028.md)**
 - **[Problem 29](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2029.md)**
+- **[Problem 30](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2030.md)**
+- **[Problem 31](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2031.md)**
+- **[Problem 32](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2032.md)**
+- **[Problem 33](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2033.md)**
+- **[Problem 34](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2034.md)**
+- **[Problem 35](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2035.md)**
+- **[Problem 36](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2036.md)**
+- **[Problem 37](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2037.md)**
 - **[Problem 38](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2038.md) | N Queens Problem**
 - **[Problem 39](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2039.md) | Conway's Game of Life**
+- **[Problem 40](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2040.md)**
+- **[Problem 41](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2041.md)**
+- **[Problem 42](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2042.md)**
+- **[Problem 43](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2043.md)**
+- **[Problem 44](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2044.md)**
+- **[Problem 45](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2045.md)**
+- **[Problem 46](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2046.md)**
+- **[Problem 47](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2047.md)**
+- **[Problem 48](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2048.md)**
+- **[Problem 49](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2049.md)**
+- **[Problem 50](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2050.md)**
+- **[Problem 51](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2051.md)**
+- **[Problem 52](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2052.md)**
+- **[Problem 53](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2053.md)**
+- **[Problem 54](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2054.md)**
+- **[Problem 55](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2055.md)**
+- **[Problem 56](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2056.md)**
+- **[Problem 57](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2057.md)**
+- **[Problem 58](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2058.md)**
+- **[Problem 59](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2059.md)**
+- **[Problem 60](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2060.md)**
+- **[Problem 61](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2061.md)**
+- **[Problem 62](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2062.md)**
+- **[Problem 63](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2063.md)**
+- **[Problem 64](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2064.md)**
+- **[Problem 65](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2065.md)**
+- **[Problem 66](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2066.md)**
+- **[Problem 67](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2067.md)**
+- **[Problem 68](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2068.md)**
+- **[Problem 69](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2069.md)**
+- **[Problem 70](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2070.md)**
+- **[Problem 71](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2071.md)**
+- **[Problem 72](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2072.md)**
 - **[Problem 73](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2073.md) | Singly Linked List | Reverse**
+- **[Problem 74](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2074.md)**
 - **[Problem 75](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2075.md) | Longest Increasing Subsequence**
+- **[Problem 76](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2076.md)**
+- **[Problem 78](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2078.md)**
 - **[Problem 79](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2079.md) | Non-Decreasing Array**
