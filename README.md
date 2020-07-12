@@ -51,8 +51,8 @@
 - [ ] **[Problem 48](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2048.md) | Binary Tree | Inorder & Preorder Traversal**
 - [ ] **[Problem 49](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2049.md) | Maximum Contiguous Sum**
 - [ ] **[Problem 50](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2050.md) | Evaluate Arithmetic Expression | Binary Tree**
-- **[Problem 51](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2051.md)**
-- **[Problem 52](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2052.md)**
+- [ ] **[Problem 51](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2051.md) | Shuffling a Deck of Cards**
+- [ ] **[Problem 52](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2052.md) | LRU Cache | Implementation**
 - **[Problem 53](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2053.md)**
 - **[Problem 54](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2054.md)**
 - **[Problem 55](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2055.md)**
