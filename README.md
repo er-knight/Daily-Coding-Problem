@@ -1,21 +1,21 @@
 ## Daily-Coding-Problem
 ***[Subscribe]( https://www.dailycodingproblem.com/) to Daily Coding Problem.***
 
-- **[Problem 1](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%201.md) | Two Sum**
-- **[Problem 2](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%202.md) | Product except** ***i***  
-- **[Problem 3](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%203.md) | Binary Tree | Serialize & Deserialize**  
-- **[Problem 4](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%204.md) | Missing Positive Integer**  
-- **[Problem 5](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%205.md) | Function as a Parameter**
-- **[Problem 6](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%206.md) | XOR Linked List | Implementation**
-- **[Problem 7](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%207.md) | Encoding and Decoding**
-- **[Problem 8](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%208.md) | Unival Tree**
-- **[Problem 9](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%209.md) | Largest Non-adjacent Sum**
-- **[Problem 10](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2010.md) | Job Schedular**
-- **[Problem 11](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2011.md)**
-- **[Problem 12](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2012.md)**
-- **[Problem 13](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2013.md)**
-- **[Problem 14](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2014.md)**
-- **[Problem 15](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2015.md)**
+- [x] **[Problem 1](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%201.md) | Two Sum**
+- [x] **[Problem 2](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%202.md) | Product except** ***i***  
+- [ ] **[Problem 3](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%203.md) | Binary Tree | Serialize & Deserialize**  
+- [x] **[Problem 4](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%204.md) | Missing Positive Integer**  
+- [ ] **[Problem 5](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%205.md) | Function as a Parameter**
+- [ ] **[Problem 6](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%206.md) | XOR Linked List | Implementation**
+- [ ] **[Problem 7](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%207.md) | Encoding and Decoding**
+- [ ] **[Problem 8](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%208.md) | Unival Tree**
+- [ ] **[Problem 9](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%209.md) | Largest Non-adjacent Sum**
+- [ ] **[Problem 10](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2010.md) | Job Schedular**
+- [ ] **[Problem 11](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2011.md) | Autocomplete System | Implementation**
+- [ ] **[Problem 12](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2012.md) | Unique Ways to Climb Staircase**
+- [ ] **[Problem 13](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2013.md) | Longest Substring with Distinct Characters**
+- [x] **[Problem 14](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2014.md) | pi Monte-Carlo**
+- **[Problem 15](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2015.md) | **
 - **[Problem 16](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2016.md)**
 - **[Problem 17](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2017.md)**
 - **[Problem 18](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2018.md)**
