@@ -4,6 +4,8 @@
 **We can determine how "Out of Order" an array A is by counting the number of inversions it has. Two elements A[i] and A[j] form an inversion if** `A[i] > A[j]` **but** `i < j` **. That is, a smaller element appears after a larger element.**  
 **Given an array, count the number of inversions it has. Do this faster than O(N<sup>2</sup>) time.**
 **You may assume each element in the array is distinct.**
+>**First line of input contains size of the array.**  
+>**Second line of input contains elements of the array, seperated by space.**
 ### Sample Input
 **2 4 1 3 5**
 ### Sample Output
@@ -21,11 +23,11 @@
 >**Apply BUBBLE SORT on the given array.**
 >**At each swap of adjacent element, increment the COUNT.**
 
-***Time Complexity - O(n^2) - because of 2 loops.***  
+***Time Complexity - O(n^2) - because of 2 loops.***    
 ***Space Complexity - O(n) - no extra space is used, except for the array.***
 
 ### Code | Python
-```
+```python
 size = int(input())
 array = [int(x) for x in input().split()]
 inversions = 0
