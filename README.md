@@ -13,4 +13,5 @@
 - **[Problem 29](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2029.md)**
 - **[Problem 38](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2038.md) | N Queens Problem**
 - **[Problem 39](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2039.md) | Conway's Game of Life**
+- **[Problem 75](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2075.md) | Longest Increasing Subsequence**
 - **[Problem 79](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2079.md) | Non-Decreasing Array**
