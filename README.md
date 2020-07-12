@@ -30,27 +30,27 @@
 - [ ] **[Problem 27](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2027.md) | Balancing Brackets**
 - [ ] **[Problem 28](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2028.md) | Justify Text**
 - [x] **[Problem 29](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2029.md) | Run-Length Encoding**
-- **[Problem 30](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2030.md)**
-- **[Problem 31](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2031.md)**
-- **[Problem 32](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2032.md)**
-- **[Problem 33](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2033.md)**
-- **[Problem 34](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2034.md)**
-- **[Problem 35](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2035.md)**
-- **[Problem 36](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2036.md)**
-- **[Problem 37](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2037.md)**
-- **[Problem 38](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2038.md) | N Queens Problem**
-- **[Problem 39](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2039.md) | Conway's Game of Life**
-- **[Problem 40](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2040.md)**
-- **[Problem 41](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2041.md)**
-- **[Problem 42](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2042.md)**
-- **[Problem 43](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2043.md)**
-- **[Problem 44](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2044.md)**
-- **[Problem 45](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2045.md)**
-- **[Problem 46](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2046.md)**
-- **[Problem 47](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2047.md)**
-- **[Problem 48](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2048.md)**
-- **[Problem 49](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2049.md)**
-- **[Problem 50](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2050.md)**
+- [ ] **[Problem 30](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2030.md)**
+- [ ] **[Problem 31](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2031.md) | Edit Distance**
+- [ ] **[Problem 32](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2032.md) | Arbitrage's Problem**
+- [ ] **[Problem 33](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2033.md) | Running Median**
+- [ ] **[Problem 34](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2034.md) | Palindrome by Insertion**
+- [ ] **[Problem 35](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2035.md) | Segregating R G B**
+- [ ] **[Problem 36](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2036.md) | Binary Search Tree | Second Largest Node**
+- [ ] **[Problem 37](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2037.md) | Generate Power Set**
+- [ ] **[Problem 38](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2038.md) | N Queens Problem**
+- [ ] **[Problem 39](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2039.md) | Conway's Game of Life**
+- [ ] **[Problem 40](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2040.md) | Non-Duplicate Integer**
+- [ ] **[Problem 41](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2041.md) | Flights & Person's Itinerary**
+- [ ] **[Problem 42](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2042.md) | Sum of Subset Equal to K**
+- [ ] **[Problem 43](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2043.md) | Stack with Max | Implementation**
+- [x] **[Problem 44](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2044.md) | Counting Inversions**
+- [ ] **[Problem 45](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2045.md) | Function Random | Implementation**
+- [ ] **[Problem 46](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2046.md) | Longest Contiguous Palindrome**
+- [ ] **[Problem 47](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2047.md) | Best Time to Buy and Sell Stock**
+- [ ] **[Problem 48](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2048.md) | Binary Tree | Inorder & Preorder Traversal**
+- [ ] **[Problem 49](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2049.md) | Maximum Contiguous Sum**
+- [ ] **[Problem 50](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2050.md) | Evaluate Arithmetic Expression | Binary Tree**
 - **[Problem 51](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2051.md)**
 - **[Problem 52](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2052.md)**
 - **[Problem 53](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2053.md)**
