@@ -43,39 +43,40 @@
 - [ ] **[Problem 40](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2040.md) | Non-Duplicate Integer**
 - [ ] **[Problem 41](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2041.md) | Flights & Person's Itinerary**
 - [ ] **[Problem 42](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2042.md) | Sum of Subset Equal to K**
-- [ ] **[Problem 43](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2043.md) | Stack with Max | Implementation**
+- [ ] **[Problem 43](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2043.md) | Stack with Max**
 - [x] **[Problem 44](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2044.md) | Counting Inversions**
-- [ ] **[Problem 45](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2045.md) | Function Random | Implementation**
+- [ ] **[Problem 45](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2045.md) | Implement Random7 from Random5 | Implementation**
 - [ ] **[Problem 46](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2046.md) | Longest Contiguous Palindrome**
 - [ ] **[Problem 47](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2047.md) | Best Time to Buy and Sell Stock**
 - [ ] **[Problem 48](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2048.md) | Binary Tree | Inorder & Preorder Traversal**
 - [ ] **[Problem 49](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2049.md) | Maximum Contiguous Sum**
 - [ ] **[Problem 50](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2050.md) | Evaluate Arithmetic Expression | Binary Tree**
 - [ ] **[Problem 51](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2051.md) | Shuffling a Deck of Cards**
-- [ ] **[Problem 52](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2052.md) | LRU Cache | Implementation**
-- **[Problem 53](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2053.md)**
-- **[Problem 54](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2054.md)**
-- **[Problem 55](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2055.md)**
-- **[Problem 56](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2056.md)**
-- **[Problem 57](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2057.md)**
-- **[Problem 58](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2058.md)**
-- **[Problem 59](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2059.md)**
-- **[Problem 60](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2060.md)**
-- **[Problem 61](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2061.md)**
-- **[Problem 62](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2062.md)**
-- **[Problem 63](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2063.md)**
-- **[Problem 64](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2064.md)**
-- **[Problem 65](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2065.md)**
-- **[Problem 66](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2066.md)**
-- **[Problem 67](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2067.md)**
-- **[Problem 68](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2068.md)**
-- **[Problem 69](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2069.md)**
-- **[Problem 70](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2070.md)**
-- **[Problem 71](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2071.md)**
-- **[Problem 72](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2072.md)**
-- **[Problem 73](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2073.md) | Singly Linked List | Reverse**
-- **[Problem 74](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2074.md)**
-- **[Problem 75](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2075.md) | Longest Increasing Subsequence**
-- **[Problem 76](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2076.md)**
-- **[Problem 78](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2078.md)**
-- **[Problem 79](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2079.md) | Non-Decreasing Array**
+- [ ] **[Problem 52](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2052.md) | LRU Cache**
+- [ ] **[Problem 53](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2053.md) | Queue Using Two Stacks**
+- [ ] **[Problem 54](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2054.md) | Sudoku Solver**
+- [ ] **[Problem 55](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2055.md) | URL Shortener**
+- [ ] **[Problem 56](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2056.md) | Graph Coloring**
+- [ ] **[Problem 57](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2057.md) | Split String into Substrings of Length K**
+- [ ] **[Problem 58](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2058.md) | Index in Rotated Array**
+- [ ] **[Problem 59](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2059.md) | File Syncing Algorithm | Implementation**
+- [ ] **[Problem 60](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2060.md) | Set Partition with Equal Sum**
+- [ ] **[Problem 61](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2061.md) | Faster Integer Exponentiation**
+- [ ] **[Problem 62](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2062.md) | Number of Ways to Reach Bottom**
+- [ ] **[Problem 63](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2063.md) | Finding Words In a Matrix**
+- [ ] **[Problem 64](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2064.md) | Knight's Tour On a Chessboard**
+- [ ] **[Problem 65](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2065.md) | Clockwise Spiral of Matrix**
+- [ ] **[Problem 66](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2066.md) | Simulate Unbiased Coin Toss**
+- [ ] **[Problem 67](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2067.md) | LFU Cache**
+- [ ] **[Problem 68](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2068.md) | N Bishops Problem**
+- [ ] **[Problem 69](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2069.md) | Largest Product of Three Elements**
+- [ ] **[Problem 70](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2070.md) | N<sup>th</sup> Perfect Number**
+- [ ] **[Problem 71](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2071.md) | Implement Random5 from Random7 | Implementation **
+- [ ] **[Problem 72](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2072.md) | Largest Value Path | Graph**
+- [ ] **[Problem 73](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2073.md) | Singly Linked List | Reverse**
+- [ ] **[Problem 74](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2074.md) | Number of X in Multiplication Tables**
+- [ ] **[Problem 75](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2075.md) | Longest Increasing Subsequence**
+- [ ] **[Problem 76](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2076.md) | Ordered Columns in Matrix**
+- [ ] **[Problem 78](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2078.md) | Merge Sorted Linked Lists**
+- [ ] **[Problem 77](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2077.md) | Merge Overlapping Intervals**
+- [ ] **[Problem 79](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2079.md) | Non-Decreasing Array**
