@@ -29,20 +29,15 @@ class Queue:
         if not(self.primaryStack):
             print('Queue is Empty!')
             return
-        for i in range(len(self.primaryStack)-1, 0, -1):
-            self.secondaryStack.append(self.primaryStack.pop(i))
-        self.primaryStack.pop(0)
-        for i in range(len(self.secondaryStack)-1, -1, -1):
-            self.primaryStack.append(self.secondaryStack.pop(i))
+        while len(self.primaryStack) != 1:
+            self.secondaryStack.append(self.primaryStack.pop())
 
-    def Show(self):
-        if not(self.primaryStack):
-            print('Queue is Empty!')
-            return
-        print('Queue:', end=' ')
-        for i in self.primaryStack:
-            print(i, end=' ')
-        print()
+        x = self.primaryStack.pop(0)
+
+        while (self.secondaryStack):
+            self.primaryStack.append(self.secondaryStack.pop())
+        
+        print(x)
 ```
 ```python
 myQueue = Queue()
@@ -50,9 +45,7 @@ myQueue.Enqueue(5)
 myQueue.Enqueue(4)
 myQueue.Enqueue(3)
 myQueue.Enqueue(2)
-myQueue.Show() # 5 4 3 2
-myQueue.Dequeue()
-myQueue.Show() # 4 3 2
+myQueue.Dequeue() # 5
 ```
 >**Refer Here: [GeeksforGeeks](https://www.geeksforgeeks.org/queue-using-stacks/)**
 
