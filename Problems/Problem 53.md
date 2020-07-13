@@ -26,6 +26,9 @@ class Queue:
         self.primaryStack.append(n)
 
     def Dequeue(self):
+        if not(self.primaryStack):
+            print('Queue is Empty!')
+            return
         for i in range(len(self.primaryStack)-1, 0, -1):
             self.secondaryStack.append(self.primaryStack.pop(i))
         self.primaryStack.pop(0)
@@ -33,6 +36,9 @@ class Queue:
             self.primaryStack.append(self.secondaryStack.pop(i))
 
     def Show(self):
+        if not(self.primaryStack):
+            print('\nQueue is Empty!')
+            return
         print('Queue:', end=' ')
         for i in self.primaryStack:
             print(i, end=' ')
