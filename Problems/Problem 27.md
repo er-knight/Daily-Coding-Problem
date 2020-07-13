@@ -42,8 +42,44 @@ def isBracketsBalanced(Expression):
                 return False
     if Stack:
         return False
+        
     return True
 
 Expression = input()
 print(isBracketsBalanced(Expression))
+```
+### Solution | C++
+```cpp
+#include <iostream>
+#include <string>
+#include <vector>
+using namespace std;
+
+bool isBracketsBalanced(string Expression) {
+  vector<char> Stack;
+  for (auto i: Expression) {
+    if (i == '(' || i == '[' || i == '{')
+      Stack.push_back(i);
+    else {
+      char ch = Stack[Stack.size()-1];
+      Stack.pop_back(); 
+      if (ch == '(' && (i == ']' || i == '}'))
+        return false;
+      else if (ch == '[' && (i == ')' || i == '}'))
+        return false;
+      else if (ch == '{' && (i == ')' || i == ']'))
+        return false;
+    }
+  }
+  if (Stack.size() != 0)
+    return false;
+
+  return true;
+}
+
+int main() {
+  string Expression;
+  cin>>Expression;
+  cout<<(isBracketsBalanced(Expression) ? "True" : "False");
+}
 ```
