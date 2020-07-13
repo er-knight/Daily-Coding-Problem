@@ -11,7 +11,7 @@
 
 ***Time Complexity -***
 - ***Enqueue() - O(1).***
-- ***Dequeue() - O(n), becuase we need to remove all element from primaryStack which takes O(n) time.***
+- ***Dequeue() - O(n), becuase we need to remove all element from primaryStack one by one, which takes O(n) time.***
 
 ***Space Complexity - O(n).***
 
