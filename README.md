@@ -53,7 +53,7 @@
 - [ ] **[Problem 50](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2050.md) | Evaluate Arithmetic Expression | Binary Tree**
 - [ ] **[Problem 51](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2051.md) | Shuffling a Deck of Cards**
 - [ ] **[Problem 52](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2052.md) | LRU Cache**
-- [ ] **[Problem 53](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2053.md) | Queue Using Two Stacks**
+- [x] **[Problem 53](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2053.md) | Queue Using Two Stacks**
 - [ ] **[Problem 54](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2054.md) | Sudoku Solver**
 - [ ] **[Problem 55](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2055.md) | URL Shortener**
 - [ ] **[Problem 56](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2056.md) | Graph Coloring**
