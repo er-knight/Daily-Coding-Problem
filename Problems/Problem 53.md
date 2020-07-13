@@ -37,7 +37,7 @@ class Queue:
 
     def Show(self):
         if not(self.primaryStack):
-            print('\nQueue is Empty!')
+            print('Queue is Empty!')
             return
         print('Queue:', end=' ')
         for i in self.primaryStack:
