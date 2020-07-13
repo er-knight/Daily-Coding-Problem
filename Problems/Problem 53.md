@@ -9,6 +9,12 @@
 >**For** `Dequeue()` **, POP every element from primaryStack and PUSH(i.e. append) them (except element at bottom) to secondaryStack.**  
 >**Before performing another** `Enqueue()` **, POP every element from secondaryStack and PUSH them to primaryStack.**
 
+***Time Complexity -***
+- ***Enqueue() - O(1).***
+- ***Dequeue() - O(n), becuase we need to remove all element from primaryStack which takes O(n) time.***
+
+***Space Complexity - O(n).***
+
 ### Solution | Python
 ```python
 class Queue:
