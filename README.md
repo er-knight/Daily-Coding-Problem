@@ -27,7 +27,7 @@
 - [ ] **[Problem 24](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2024.md) | Binary Tree | Locked & Unlocked**
 - [ ] **[Problem 25](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2025.md) | Regular Expressions | Implementation**
 - [ ] **[Problem 26](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2026.md) | Singly Linked List | Remove**
-- [ ] **[Problem 27](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2027.md) | Balancing Brackets**
+- [x] **[Problem 27](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2027.md) | Balancing Brackets**
 - [ ] **[Problem 28](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2028.md) | Justify Text**
 - [x] **[Problem 29](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2029.md) | Run-Length Encoding**
 - [ ] **[Problem 30](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2030.md)**
