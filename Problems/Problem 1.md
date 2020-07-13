@@ -135,4 +135,6 @@ int main(){
   return 0;
 }
 ```
+>**Practice Here: [LeetCode](https://leetcode.com/problems/two-sum/)**
+
 ***[Back to Previous Page](https://github.com/theInvincible/Daily-Coding-Problem/)***
