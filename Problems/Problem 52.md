@@ -7,3 +7,6 @@
 - `get(key)` **: gets the value at key. If no such key exists, return null.** 
 
 **Each operation should run in O(1) time.**
+
+**Practice Here: [LeetCode](https://leetcode.com/problems/lru-cache/)**
+**Refer Here: [Medium](https://medium.com/@nehajirafe/implementing-lru-cache-leetcode-82e90ce63c3f), [GeekforGeeks](https://www.geeksforgeeks.org/lru-cache-implementation/)**
