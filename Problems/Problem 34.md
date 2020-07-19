@@ -12,3 +12,6 @@
 **google**
 ### Sample Output
 **elgoogle**
+
+|**:house: [HOME](https://github.com/theInvincible/Daily-Coding-Problem/)**|
+|--------------------------------------------------------------------------|
