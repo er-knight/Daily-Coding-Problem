@@ -9,12 +9,7 @@
 ### Explanation
 **Buy the stock at 5 dollars and sell it at 10 dollars.**
 
-**Reference**
->**[Youtube](https://www.youtube.com/watch?v=hOLSBR7eN4g)**  
->**[LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)**
-
-**Simple Logic**
-***Not Tested.***
+**Simple Logic** ***Not Tested.***
 ```
 for (current_price in prices) {
   if(current_min_price is less than current_price) {
@@ -26,3 +21,11 @@ for (current_price in prices) {
   }
 }
 ```
+### Reference
+**:arrow_forward: [Youtube](https://www.youtube.com/watch?v=hOLSBR7eN4g)**  
+
+### Practice
+**:memo: [LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)**
+
+|**:house: [HOME](https://github.com/theInvincible/Daily-Coding-Problem/)**|
+|--------------------------------------------------------------------------|
