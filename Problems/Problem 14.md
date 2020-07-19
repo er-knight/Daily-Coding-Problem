@@ -4,7 +4,8 @@
 **The area of a circle is defined as πr<sup>2</sup>. Estimate π upto 3 decimal places using [Monte-Carlo method](https://towardsdatascience.com/an-overview-of-monte-carlo-methods-675384eb1694).**
 
 **Hint: The basic equation of a circle is x<sup>2</sup> + y<sup>2</sup> = r<sup>2</sup>.**
-### Code (Python)
+
+### Solution | Python
 ```python
 import random
 
@@ -32,7 +33,7 @@ Output: 3.088
 Input: 10000
 Output: 3.144
 ```
-### Code (C++)
+### Solution | C++
 ```cpp
 #include <iostream>
 #include <random>
@@ -70,4 +71,7 @@ Input: 100000
 Output: 3.146
 ```
 ### References
-- **[GeeksforGeeks](https://www.geeksforgeeks.org/estimating-value-pi-using-monte-carlo/)**
+**:green_book: [GeeksforGeeks](https://www.geeksforgeeks.org/estimating-value-pi-using-monte-carlo/)**
+
+|**:house: [HOME](https://github.com/theInvincible/Daily-Coding-Problem/)**|
+|--------------------------------------------------------------------------|
