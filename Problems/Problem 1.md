@@ -138,4 +138,4 @@ int main(){
 
 **Practice Here: [HackerEarth](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/pair-sum-1-0062d9ab/)**
 
-***[Back to Previous Page](https://github.com/theInvincible/Daily-Coding-Problem/)***
+***[Back to Main Page](https://github.com/theInvincible/Daily-Coding-Problem/)***
