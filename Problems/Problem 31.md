@@ -3,8 +3,9 @@
 
 **The Edit Distance between two strings refers to the minimum number of character insertions, deletions and substitutions required to change one string to other.**  
 **Given two strings, compute the Edit Distance between them.**
-- **First line of input contains first string.**
-- **Second line of input contains second string.**
+
+>**First line of input contains first string.**  
+>**Second line of input contains second string.**
 
 ### Sample Input
 **kitten**  
