@@ -85,4 +85,4 @@ int main() {
 ```
 **Reference: [GeeksforGeeks](https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/)**
 
-***[Back to Previous Page](https://github.com/theInvincible/Daily-Coding-Problem/)***
+:house: **[HOME](https://github.com/theInvincible/Daily-Coding-Problem/)**
