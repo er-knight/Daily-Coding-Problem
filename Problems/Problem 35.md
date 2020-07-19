@@ -3,11 +3,22 @@
 ### Task
 **Given an array of strictly the characters 'R', 'G', and 'B', segregate the values of the array so that all the Rs come first, the Gs come second and the Bs come last.**  
 **You can only swap elements of the array.**  
-***Note: Do this in linear time and in-place.***
+
+>**First line of input contains size of the array.**  
+>**Second line of input contains elements of array seperated by space.**
 ### Sample Input
 **G B R R B R G**
 ### Sample Output
 **R R R G G B B**
+
+### Approach
+>**Take character 'G' as a pivot.**  
+>**Traverse through the array and compare each character with pivot i.e. 'G'.**  
+>>**If character is 'R', place it at left side of 'G'.**  
+>>**If character is 'B', place it at right side of 'G'.**  
+
+***Time Complexity - O(n).***  
+***Space Complexity - O(1).***  
 
 ### Solution | Python
 ```python
