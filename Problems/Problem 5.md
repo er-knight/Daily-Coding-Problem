@@ -27,4 +27,5 @@ def cdr(pair):
   return pair(lambda a,b: b)
 ```
 
-**:house: [HOME](https://github.com/theInvincible/Daily-Coding-Problem/)**
+|**:house: [HOME](https://github.com/theInvincible/Daily-Coding-Problem/)**|
+|--------------------------------------------------------------------------|
