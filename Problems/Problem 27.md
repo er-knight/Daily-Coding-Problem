@@ -83,6 +83,9 @@ int main() {
   cout<<(isBracketsBalanced(Expression) ? "True" : "False");
 }
 ```
-:green_book: **[Refer GeeksforGeeks](https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/)**
 
-:house: **[HOME](https://github.com/theInvincible/Daily-Coding-Problem/)**
+### Reference
+**:green_book: [GeeksforGeeks](https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/)**
+
+|**:house: [HOME](https://github.com/theInvincible/Daily-Coding-Problem/)**|
+|--------------------------------------------------------------------------|
