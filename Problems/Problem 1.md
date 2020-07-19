@@ -80,8 +80,6 @@ int main(){
 ***:stopwatch: Time Complexity - O(nlogn) = O(nlogn) + O(n) = (Time Complexity of loop) + (Time Complexity of sort()).***  
 ***:floppy_disk: Space Complexity - O(1), because extra space is not used.***
 
-**References: [LeetCode Article](https://leetcode.com/articles/two-pointer-technique/), [GeeksforGeeks Article](https://www.geeksforgeeks.org/two-pointers-technique/), [GitHub](https://github.com/liyin2015/Algorithms-and-Coding-Interviews/blob/master/two_pointer.pdf), [Medium Article](https://medium.com/@kevinlai76/algorithm-two-pointer-technique-a27103ed7ea1)**
-
 ### Code (Python)
 ```python
 def pairSum(numList, K):
@@ -138,9 +136,13 @@ int main(){
 ```
 
 ### Reference
-**:orange_book: [LeetCode]()**
+**:orange_book: [LeetCode](https://leetcode.com/articles/two-pointer-technique/)** 
+**:notebook: [GitHub](https://github.com/liyin2015/Algorithms-and-Coding-Interviews/blob/master/two_pointer.pdf)**  
+**:green_book: [GeeksforGeeks](https://www.geeksforgeeks.org/two-pointers-technique/)**  
+**:notebook: [Medium](https://medium.com/@kevinlai76/algorithm-two-pointer-technique-a27103ed7ea1)**
 
 ### Practice
 :memo: **[HackerEarth](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/pair-sum-1-0062d9ab/)**
 
-**:house: [HOME](https://github.com/theInvincible/Daily-Coding-Problem/)**
+|**:house: [HOME](https://github.com/theInvincible/Daily-Coding-Problem/)**|
+|--------------------------------------------------------------------------|
