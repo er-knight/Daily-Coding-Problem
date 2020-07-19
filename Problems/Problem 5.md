@@ -25,14 +25,5 @@ def car(pair):
 def cdr(pair):
   return pair(lambda a,b: b)
 ```
-### Driver Code
-```python
-print(car(cons(3, 4)))
-print(cdr(cons(3, 4)))
-
-```
-### Output
-**3**  
-**4**
 
 **:house: [HOME](https://github.com/theInvincible/Daily-Coding-Problem/)**
