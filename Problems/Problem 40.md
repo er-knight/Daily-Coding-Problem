@@ -12,3 +12,5 @@
 ### Sample Output
 **19**
 
+|**:house: [HOME](https://github.com/theInvincible/Daily-Coding-Problem/)**|
+|--------------------------------------------------------------------------|
