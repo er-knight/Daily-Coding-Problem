@@ -23,8 +23,8 @@
 >**Apply BUBBLE SORT on the given array.**  
 >**At each swap of adjacent element, increment the COUNT.**
 
-***Time Complexity - O(n^2) - because of 2 loops.***     
-***Space Complexity - O(n) - no extra space is used, except for the array.***
+**:stopwatch: Time Complexity - O(n<sup>2</sup>) - because of 2 loops.**    
+**:floppy_disk: Space Complexity - O(n) - no extra space is used, except for the array.**
 
 ### Code | Python
 ```python
@@ -40,3 +40,6 @@ for i in range(len(array)):
 
 print(inversions)
 ```
+
+|**:house: [HOME](https://github.com/theInvincible/Daily-Coding-Problem/)**|
+|--------------------------------------------------------------------------|
