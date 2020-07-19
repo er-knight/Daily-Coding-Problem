@@ -17,7 +17,7 @@
 >>**If character is 'R', place it at left side of 'G'.**  
 >>**If character is 'B', place it at right side of 'G'.**  
 
-**:stopwatch:Time Complexity - O(n).**
+**:stopwatch:Time Complexity - O(n).**  
 **:floppy_disk:Space Complexity - O(1).** 
 
 ### Solution | Python
@@ -77,7 +77,7 @@ int main() {
 ```
 
 ### Reference
-**:movie_camera: [Youtube](https://youtu.be/LP6doGhSZ3M)**
+**:arrow_forward: [Youtube](https://youtu.be/LP6doGhSZ3M)**
 
 |**:house: [HOME](https://github.com/theInvincible/Daily-Coding-Problem/)**|
 |--------------------------------------------------------------------------|
