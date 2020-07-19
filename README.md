@@ -2,10 +2,10 @@
 ***[Subscribe]( https://www.dailycodingproblem.com/) to Daily Coding Problem.***
 
 :dart: **[Problem 1](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%201.md) | Pair Sum :heavy_check_mark:**  
-:dart: **[Problem 2](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%202.md) | Product except** ***i***    
+:dart: **[Problem 2](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%202.md) | Product except** ***i :heavy_check_mark:***    
 :dart: **[Problem 3](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%203.md) | Binary Tree | Serialize & Deserialize**    
-:dart: **[Problem 4](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%204.md) | Missing Positive Integer**    
-:dart: **[Problem 5](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%205.md) | Function as a Parameter**  
+:dart: **[Problem 4](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%204.md) | Missing Positive Integer :heavy_check_mark:**    
+:dart: **[Problem 5](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%205.md) | Function as a Parameter :heavy_check_mark:**  
 :dart: **[Problem 6](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%206.md) | XOR Linked List | Implementation**  
 :dart: **[Problem 7](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%207.md) | Encoding and Decoding**  
 :dart: **[Problem 8](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%208.md) | Unival Tree**  
@@ -14,11 +14,11 @@
 :dart: **[Problem 11](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2011.md) | Autocomplete System | Implementation**  
 :dart: **[Problem 12](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2012.md) | Unique Ways to Climb Staircase**  
 :dart: **[Problem 13](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2013.md) | Longest Substring with Distinct Characters**  
-:dart: **[Problem 14](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2014.md) | pi Monte-Carlo**  
+:dart: **[Problem 14](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2014.md) | pi Monte-Carlo :heavy_check_mark:**  
 :dart: **[Problem 15](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2015.md) | Random Element from Large Stream**  
 :dart: **[Problem 16](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2016.md) | Last N Logs**  
 :dart: **[Problem 17](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2017.md) | Longest Absolute Path**  
-:dart: **[Problem 18](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2018.md) | Maximum in Each Subarray**  
+:dart: **[Problem 18](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2018.md) | Maximum in Each Subarray :heavy_check_mark:**  
 :dart: **[Problem 19](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2019.md) | Minimum Cost but Distinct Colors**  
 :dart: **[Problem 20](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2020.md) | Singly Link Lists | Intersecting Node**  
 :dart: **[Problem 21](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2021.md) | Minimum Rooms with Overlapping Lectures**  
@@ -27,15 +27,15 @@
 :dart: **[Problem 24](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2024.md) | Binary Tree | Locked & Unlocked**  
 :dart: **[Problem 25](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2025.md) | Regular Expressions | Implementation**  
 :dart: **[Problem 26](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2026.md) | Singly Linked List | Remove**  
-:dart: **[Problem 27](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2027.md) | Balancing Brackets**  
+:dart: **[Problem 27](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2027.md) | Balancing Brackets :heavy_check_mark:**  
 :dart: **[Problem 28](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2028.md) | Justify Text**  
-:dart: **[Problem 29](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2029.md) | Run-Length Encoding**  
+:dart: **[Problem 29](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2029.md) | Run-Length Encoding :heavy_check_mark:**  
 :dart: **[Problem 30](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2030.md)**  
 :dart: **[Problem 31](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2031.md) | Edit Distance**  
 :dart: **[Problem 32](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2032.md) | Arbitrage's Problem**  
 :dart: **[Problem 33](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2033.md) | Running Median**  
 :dart: **[Problem 34](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2034.md) | Palindrome by Insertion**  
-:dart: **[Problem 35](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2035.md) | Segregating R G B | Dutch Flag Problem :netherlands:**  
+:dart: **[Problem 35](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2035.md) | Segregating R G B | Dutch Flag Problem :heavy_check_mark:**  
 :dart: **[Problem 36](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2036.md) | Binary Search Tree | Second Largest Node**  
 :dart: **[Problem 37](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2037.md) | Generate Power Set**  
 :dart: **[Problem 38](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2038.md) | N Queens Problem**  
@@ -43,8 +43,8 @@
 :dart: **[Problem 40](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2040.md) | Non-Duplicate Integer**  
 :dart: **[Problem 41](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2041.md) | Flights & Person's Itinerary**  
 :dart: **[Problem 42](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2042.md) | Sum of Subset Equal to K**  
-:dart: **[Problem 43](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2043.md) | Stack with Max**  
-:dart: **[Problem 44](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2044.md) | Counting Inversions**  
+:dart: **[Problem 43](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2043.md) | Stack with Max :heavy_check_mark:**  
+:dart: **[Problem 44](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2044.md) | Counting Inversions :white_check_mark:**  
 :dart: **[Problem 45](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2045.md) | Implement Random7 from Random5 | Implementation**  
 :dart: **[Problem 46](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2046.md) | Longest Contiguous Palindrome**  
 :dart: **[Problem 47](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2047.md) | Best Time to Buy and Sell Stock**  
@@ -53,7 +53,7 @@
 :dart: **[Problem 50](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2050.md) | Evaluate Arithmetic Expression | Binary Tree**  
 :dart: **[Problem 51](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2051.md) | Shuffling a Deck of Cards**  
 :dart: **[Problem 52](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2052.md) | LRU Cache**  
-:dart: **[Problem 53](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2053.md) | Queue Using Two Stacks**  
+:dart: **[Problem 53](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2053.md) | Queue Using Two Stacks :heavy_check_mark:**  
 :dart: **[Problem 54](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2054.md) | Sudoku Solver**  
 :dart: **[Problem 55](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2055.md) | URL Shortener**  
 :dart: **[Problem 56](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2056.md) | Graph Coloring**  
