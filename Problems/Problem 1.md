@@ -73,9 +73,10 @@ int main(){
 }
 ```
 ### Approach 2: Two-Pointers Technique
->**Sort the given list.**    
->**Take two pointers, pointing two start and end of the list, respectively.**  
->>**Increase/Decrease their value based on the condition.**
+>**Sort the given list.**      
+>**Take two pointers, pointing two start and end of the list, respectively.**   
+>**Traverse through sorted array.**  
+>>**Increase/Decrease their value based on the condition.**   
 
 ***:stopwatch: Time Complexity - O(nlogn) = O(nlogn) + O(n) = (Time Complexity of loop) + (Time Complexity of sort()).***  
 ***:floppy_disk: Space Complexity - O(1), because extra space is not used.***
