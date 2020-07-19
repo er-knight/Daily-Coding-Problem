@@ -2,8 +2,8 @@
 ***Asked by Uber.***
 ### Task
 **Given an array of integers, return a new array such that each element at index** ***i*** **of the new array is the product of all the numbers in the original array except the one at** ***i.***
-- **First line of input contains size of an array.**
-- **Second line of input contains elements of an array seperated by space.**
+>**First line of input contains size of an array.**  
+>**Second line of input contains elements of an array seperated by space.**  
 ### Sample Input
 **5**  
 **1 2 3 4 5** 
@@ -26,9 +26,10 @@
 - **at index 0 -> 2 = 2 * 1.**
 - **at index 1 -> 3 = 3 * 1.**
 - **at index 2 -> 6 = 3 * 2.**
+
 ### Approach 1: Using Division
-- **Calculate PRODUCT of all elements of the original array.**
-- **Divide the PRODUCT by element at index** ***i*** **and store the resulting value in the new array at index** ***i.***
+>**Calculate PRODUCT of all elements of the original array.**  
+>**Divide the PRODUCT by element at index** ***i*** **and store the resulting value in the new array at index** ***i.***
 ### Solution | Python
 ```python
 def product(array):
@@ -78,7 +79,8 @@ int main() {
 }
 ```
 ### Approach 2: Without Division
-- **Calculate PRODUCT of all elements, except element at index** ***i*** **and store that PRODUCT in the new array at index** ***i.***
+>**Calculate PRODUCT of all elements, except element at index** ***i*** **and store that PRODUCT in the new array at index** ***i.***
+
 ### Solution | Python
 ```python
 def product(array, i):
