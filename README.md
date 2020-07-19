@@ -1,11 +1,14 @@
 ## Daily-Coding-Problem
 ***[Subscribe]( https://www.dailycodingproblem.com/) to Daily Coding Problem.***
 
+:heavy_check_mark: **Solution in both Python and C++**  
+:white_check_mark: **Solution in either Python or C++**
+
 :dart: **[Problem 1](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%201.md) | Pair Sum :heavy_check_mark:**  
 :dart: **[Problem 2](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%202.md) | Product except** ***i :heavy_check_mark:***    
 :dart: **[Problem 3](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%203.md) | Binary Tree | Serialize & Deserialize**    
 :dart: **[Problem 4](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%204.md) | Missing Positive Integer :heavy_check_mark:**    
-:dart: **[Problem 5](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%205.md) | Function as a Parameter :heavy_check_mark:**  
+:dart: **[Problem 5](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%205.md) | Function as a Parameter :white_check_mark:**  
 :dart: **[Problem 6](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%206.md) | XOR Linked List | Implementation**  
 :dart: **[Problem 7](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%207.md) | Encoding and Decoding**  
 :dart: **[Problem 8](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%208.md) | Unival Tree**  
