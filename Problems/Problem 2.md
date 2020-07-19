@@ -10,22 +10,26 @@
 ### Sample Output
 **120 60 40 30 24**
 ### Explanation
-**New array will be -**  
-- **at index 0 -> 120 = 2 * 3 * 4 * 5.**
-- **at index 1 -> 60 = 1 * 3 * 4 * 5.**
-- **at index 2 -> 40 = 1 * 2 * 4 * 5.**
-- **at index 3 -> 30 = 1 * 2 * 3 * 5.**
-- **at index 4 -> 24 = 1 * 2 * 3 * 4.**
+**New array will be:**  
+|**INDEX**|**PRODUCT**|
+|---------|-----------|
+|**0**|**2 * 3 * 4 * 5 = 120**|
+|**1**|**1 * 3 * 4 * 5 = 60**|
+|**2**|**1 * 2 * 4 * 5 = 40**|
+|**3**|**1 * 2 * 3 * 5 = 30**|
+|**4**|**1 * 2 * 3 * 4 = 24**|
 ### Sample Input
 **3**  
 **3 2 1** 
 ### Sample Output
 **2 3 6**
 ### Explanation
-**New array will be -**  
-- **at index 0 -> 2 = 2 * 1.**
-- **at index 1 -> 3 = 3 * 1.**
-- **at index 2 -> 6 = 3 * 2.**
+**New array will be:** 
+|**INDEX**|**PRODUCT**|
+|---------|-----------|
+|**0**|**2 * 1 = 2**|
+|**1**|**3 * 1 = 3**|
+|**2**|**3 * 2 = 6.**
 
 ### Approach 1: Using Division
 >**Calculate PRODUCT of all elements of the original array.**  
