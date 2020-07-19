@@ -146,4 +146,5 @@ int main() {
 }
 ```
 
-**:house: [HOME](https://github.com/theInvincible/Daily-Coding-Problem/)**
+|**:house: [HOME](https://github.com/theInvincible/Daily-Coding-Problem/)**|
+|--------------------------------------------------------------------------|
