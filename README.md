@@ -35,7 +35,7 @@
 - [ ] **[Problem 32](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2032.md) | Arbitrage's Problem**
 - [ ] **[Problem 33](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2033.md) | Running Median**
 - [ ] **[Problem 34](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2034.md) | Palindrome by Insertion**
-- [ ] **[Problem 35](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2035.md) | Segregating R G B | Dutch Flag Problem**
+- [x] **[Problem 35](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2035.md) | Segregating R G B | Dutch Flag Problem**
 - [ ] **[Problem 36](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2036.md) | Binary Search Tree | Second Largest Node**
 - [ ] **[Problem 37](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2037.md) | Generate Power Set**
 - [ ] **[Problem 38](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2038.md) | N Queens Problem**
