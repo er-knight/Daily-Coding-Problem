@@ -21,7 +21,7 @@
 :dart: **[Problem 15](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2015.md) | Random Element from Large Stream**  
 :dart: **[Problem 16](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2016.md) | Last N Logs**  
 :dart: **[Problem 17](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2017.md) | Longest Absolute Path**  
-:dart: **[Problem 18](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2018.md) | Maximum in Each Subarray :heavy_check_mark:**  
+:dart: **[Problem 18](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2018.md) | Maximum in Each Subarray**  
 :dart: **[Problem 19](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2019.md) | Minimum Cost but Distinct Colors**  
 :dart: **[Problem 20](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2020.md) | Singly Link Lists | Intersecting Node**  
 :dart: **[Problem 21](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2021.md) | Minimum Rooms with Overlapping Lectures**  
