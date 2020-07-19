@@ -1,4 +1,4 @@
-## Daily-Coding-Problem
+## Daily-Coding-Problem 
 ***[Subscribe]( https://www.dailycodingproblem.com/) to Daily Coding Problem.***
 
 :heavy_check_mark: **Solution in both Python and C++**  
