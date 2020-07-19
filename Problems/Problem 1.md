@@ -13,7 +13,7 @@
 ### Sample Output
 **True**
 ### Explanation
-**10 + 7 = 17. Hence we return True.**
+**10 + 7 = 17. Hence, return True.**
 ### Sample Input
 **4**  
 **10 15 3 7**  
@@ -21,7 +21,7 @@
 ### Sample Output
 **False**
 ### Explanation
-**No any two numbers adds up to 16. Hence we return False.**
+**No any two numbers adds up to 16. Hence, return False.**
 
 ### Approach 1: Using 2 loops
 >**Try every combination of two numbers from a list and check if they add up to K.** 
@@ -29,7 +29,7 @@
 ***:stopwatch: Time Complexity - O(n<sup>2</sup>), where n is length of the list.***   
 ***:floppy_disk: Space Complexity - O(1), because extra space is not used.***  
 
-### Code (Python)
+### Solution | Python
 ```python
 def pairSum(numList, K):
     for i in numList:
@@ -42,7 +42,7 @@ numList = [int(x) for x in input().split()]
 K = int(input())
 print(pairSum(numList, K))
 ```
-### Code (C++)
+### Solution | C++
 ```cpp
 #include <iostream>
 #include <vector>
@@ -80,7 +80,7 @@ int main(){
 ***:stopwatch: Time Complexity - O(nlogn) = O(nlogn) + O(n) = (Time Complexity of loop) + (Time Complexity of sort()).***  
 ***:floppy_disk: Space Complexity - O(1), because extra space is not used.***
 
-### Code (Python)
+### Solution | Python
 ```python
 def pairSum(numList, K):
   start, end = 0, (len(numList) - 1)
@@ -100,7 +100,7 @@ numList = [int(x) for x in input().split()]
 K = int(input())
 print(pairSum(numList, K))
 ```
-### Code (C++)
+### Solution | C++
 ```cpp
 #include <iostream>
 #include <vector>
