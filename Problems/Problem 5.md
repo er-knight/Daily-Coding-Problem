@@ -12,7 +12,8 @@ def cons(a, b):
     return pair
 ```
 **Implement** `car()` **and** `cdr()`**.**
-### Code (Python)
+
+### Solution | Python
 ```python
 def cons(a, b):
   def pair(f):
