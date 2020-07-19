@@ -10,7 +10,8 @@
 ### Sample Output
 **Encoded:  4A3B2C1D2A**   
 **Decoded: AAAABBBCCDAA**
-### Code (Python)
+
+### Solution | Python
 ```python
 string = input()
 encode = ''
@@ -30,7 +31,7 @@ print(f"Encoded: {encode}")
 decode = "".join([int(encode[i])*encode[i+1] for i in range(0, len(encode), 2)])
 print(f"Decoded: {decode}")
 ```
-### Code (C++)
+### Solution | C++
 
 >***Note: C++ solution is only for ENCODING a string.***
 ```cpp
@@ -56,3 +57,6 @@ int main() {
   return 0;
 }
 ```
+
+|**:house: [HOME](https://github.com/theInvincible/Daily-Coding-Problem/)**|
+|--------------------------------------------------------------------------|
