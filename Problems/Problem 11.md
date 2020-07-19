@@ -6,3 +6,6 @@
 **For example, given the query string de and the set of strings [dog, deer, deal], return [deer, deal].**
 
 **Hint: Try preprocessing the dictionary into a more efficient data structure to speed up queries.**
+
+|**:house: [HOME](https://github.com/theInvincible/Daily-Coding-Problem/)**|
+|--------------------------------------------------------------------------|
