@@ -22,8 +22,9 @@
 
 ### Solution | Python
 ```python
+size = int(input())
 array = input().split() 
-red, green, blue = 0, 0, len(array) - 1
+red, green, blue = 0, 0, size - 1
 
 while green <= blue:
     if array[green] == 'R':
