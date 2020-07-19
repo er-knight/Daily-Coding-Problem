@@ -136,10 +136,10 @@ int main(){
 ```
 
 ### Reference
-**:orange_book: [LeetCode](https://leetcode.com/articles/two-pointer-technique/)** 
-**:notebook: [GitHub](https://github.com/liyin2015/Algorithms-and-Coding-Interviews/blob/master/two_pointer.pdf)**  
-**:green_book: [GeeksforGeeks](https://www.geeksforgeeks.org/two-pointers-technique/)**  
-**:notebook: [Medium](https://medium.com/@kevinlai76/algorithm-two-pointer-technique-a27103ed7ea1)**
+**:green_book: [GeeksforGeeks](https://www.geeksforgeeks.org/two-pointers-technique/)**    
+**:notebook: [GitHub](https://github.com/liyin2015/Algorithms-and-Coding-Interviews/blob/master/two_pointer.pdf)**    
+**:orange_book: [LeetCode](https://leetcode.com/articles/two-pointer-technique/)**   
+**:notebook: [Medium](https://medium.com/@kevinlai76/algorithm-two-pointer-technique-a27103ed7ea1)**  
 
 ### Practice
 :memo: **[HackerEarth](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/pair-sum-1-0062d9ab/)**
