@@ -8,5 +8,12 @@
 
 **Each operation should run in O(1) time.**
 
-**Practice Here: [LeetCode](https://leetcode.com/problems/lru-cache/)**
-**Refer Here: [Medium](https://medium.com/@nehajirafe/implementing-lru-cache-leetcode-82e90ce63c3f), [GeekforGeeks](https://www.geeksforgeeks.org/lru-cache-implementation/)**
+### Reference
+**:notebook: [Medium](https://medium.com/@nehajirafe/implementing-lru-cache-leetcode-82e90ce63c3f)**  
+**:green_book: [GeekforGeeks](https://www.geeksforgeeks.org/lru-cache-implementation/)**
+
+### Practice
+**:memo: [LeetCode](https://leetcode.com/problems/lru-cache/)**  
+
+|**:house: [HOME](https://github.com/theInvincible/Daily-Coding-Problem/)**|
+|--------------------------------------------------------------------------|
