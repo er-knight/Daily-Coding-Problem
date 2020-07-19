@@ -3,8 +3,9 @@
 ### Task
 **Given an array of integers, find the first missing positive integer in linear time and constant space. In other words, find the lowest positive integer that does not exist in the array. The array can contain duplicates and negative numbers as well.**  
 ***Note: You can modify the input array in-place.***
-- **First line of input contains size of the array.**
-- **Second line of input contains elements of the array seperated by space.**
+
+>**First line of input contains size of the array.**  
+>**Second line of input contains elements of the array seperated by space.**
 ### Sample Input
 **4**  
 **3 4 -1 1**
@@ -25,8 +26,8 @@
 >> **If any integer is not present, then print that element and break the loop.**  
 >> **Else print MAX + 1.**
 
-***Time Complexity - O(n).***  
-***Space Complexity - O(1).***
+**:stopwatch: Time Complexity - O(n).**    
+**:floppy_disk: Space Complexity - O(1).**
 ### Code (Python)
 ```python
 size = int(input())
@@ -67,4 +68,5 @@ int main() {
 }
 ```
 
-**:house: [HOME](https://github.com/theInvincible/Daily-Coding-Problem/)**
+|**:house: [HOME](https://github.com/theInvincible/Daily-Coding-Problem/)**|
+|--------------------------------------------------------------------------|
