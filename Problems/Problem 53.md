@@ -47,6 +47,8 @@ myQueue.Enqueue(3)
 myQueue.Enqueue(2)
 myQueue.Dequeue() # 5
 ```
->**Refer Here: [GeeksforGeeks](https://www.geeksforgeeks.org/queue-using-stacks/)**
+###
+**:green_book: [GeeksforGeeks](https://www.geeksforgeeks.org/queue-using-stacks/)**
 
-***[Back to Previous Page](https://github.com/theInvincible/Daily-Coding-Problem)***
+|**:house: [HOME](https://github.com/theInvincible/Daily-Coding-Problem/)**|
+|--------------------------------------------------------------------------|
