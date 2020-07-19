@@ -26,8 +26,9 @@
 ### Approach 1: Using 2 loops
 >**Try every combination of two numbers from a list and check if they add up to K.** 
 
-***Time Complexity - O(n<sup>2</sup>), where n is length of the list.***  
-***Space Complexity - O(1), because extra space is not used.***  
+***:stopwatch: Time Complexity - O(n<sup>2</sup>), where n is length of the list.***   
+***:floppy_disk: Space Complexity - O(1), because extra space is not used.***  
+
 ### Code (Python)
 ```python
 def pairSum(numList, K):
@@ -76,8 +77,8 @@ int main(){
 >**Take two pointers, pointing two start and end of the list, respectively.**  
 >>**Increase/Decrease their value based on the condition.**
 
-***Time Complexity - O(nlogn) = O(nlogn) + O(n) = (Time Complexity of loop) + (Time Complexity of sort()).***  
-***Space Complexity - O(1), because extra space is not used.***
+***:stopwatch: Time Complexity - O(nlogn) = O(nlogn) + O(n) = (Time Complexity of loop) + (Time Complexity of sort()).***  
+***:floppy_disk: Space Complexity - O(1), because extra space is not used.***
 
 **References: [LeetCode Article](https://leetcode.com/articles/two-pointer-technique/), [GeeksforGeeks Article](https://www.geeksforgeeks.org/two-pointers-technique/), [GitHub](https://github.com/liyin2015/Algorithms-and-Coding-Interviews/blob/master/two_pointer.pdf), [Medium Article](https://medium.com/@kevinlai76/algorithm-two-pointer-technique-a27103ed7ea1)**
 
@@ -136,6 +137,10 @@ int main(){
 }
 ```
 
-**Practice Here: [HackerEarth](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/pair-sum-1-0062d9ab/)**
+### Reference
+**:orange_book: [LeetCode]()**
+
+### Practice
+:memo: **[HackerEarth](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/pair-sum-1-0062d9ab/)**
 
 **:house: [HOME](https://github.com/theInvincible/Daily-Coding-Problem/)**
