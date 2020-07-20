@@ -7,8 +7,6 @@
 
 **Given the array [10, 5, 1], you should return false, since we can't modify any one element to get a non-decreasing array.**
 
->**Refer Here: [BlogSpot](http://nirajsdatabase.blogspot.com/2017/08/given-array-with-n-integers-your-task.html), [LeetCode Article](https://leetcode.com/articles/non-decreasing-array/), [GitBook1](https://hjweds.gitbooks.io/leetcode/greedy/non-decreasing-array.html), [GitBook2](https://twchen.gitbook.io/leetcode/array/non-decreasing-array)**
->**Practice Here: [LeetCode](https://leetcode.com/problems/non-decreasing-array/)**
 
 ```
 for i in range(len(array)-1):
@@ -38,3 +36,14 @@ Expected: false
 # here above it given one of wrong output.
 ```
 
+### Reference
+**:orange_book: [LeetCode](https://leetcode.com/articles/non-decreasing-array/)**  
+**:orange_book: [BlogSpot](http://nirajsdatabase.blogspot.com/2017/08/given-array-with-n-integers-your-task.html)**  
+**:notebook: [GitBook](https://hjweds.gitbooks.io/leetcode/greedy/non-decreasing-array.html)**  
+**:notebook: [GitBook](https://twchen.gitbook.io/leetcode/array/non-decreasing-array)**
+
+### Practice
+**:memo: [LeetCode](https://leetcode.com/problems/non-decreasing-array/)**
+
+|**:house: [HOME](https://github.com/theInvincible/Daily-Coding-Problem/)**|
+|--------------------------------------------------------------------------|
