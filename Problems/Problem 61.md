@@ -5,3 +5,6 @@
 **Do this faster than the naive method of repeated multiplication.**  
 
 **For example, pow(2, 10) should return 1024.**
+
+|**:house: [HOME](https://github.com/theInvincible/Daily-Coding-Problem/)**|
+|--------------------------------------------------------------------------|
