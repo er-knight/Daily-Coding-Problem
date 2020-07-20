@@ -12,3 +12,6 @@
 ```
 **and the target word 'FOAM', you should return true, since it's the leftmost column.**  
 **Similarly, given the target word 'MASS', you should return true, since it's the last row.**
+
+|**:house: [HOME](https://github.com/theInvincible/Daily-Coding-Problem/)**|
+|--------------------------------------------------------------------------|
