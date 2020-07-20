@@ -33,3 +33,6 @@
 13
 12
 ```
+
+|**:house: [HOME](https://github.com/theInvincible/Daily-Coding-Problem/)**|
+|--------------------------------------------------------------------------|
