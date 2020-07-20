@@ -8,3 +8,6 @@
 - **Down, then Right.**
 
 **Given a 5 by 5 matrix, there are 70 ways to get to the bottom-right.**
+
+|**:house: [HOME](https://github.com/theInvincible/Daily-Coding-Problem/)**|
+|--------------------------------------------------------------------------|
