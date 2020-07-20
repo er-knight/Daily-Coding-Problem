@@ -6,3 +6,6 @@
 **For example, if the list is [-10, -10, 5, 2], we should return 500, since that's: (-10) * (-10) * 5.**
 
 **You can assume the list has at least three integers.**
+
+|**:house: [HOME](https://github.com/theInvincible/Daily-Coding-Problem/)**|
+|--------------------------------------------------------------------------|
