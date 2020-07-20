@@ -30,3 +30,6 @@ wvu
 tsr
 ```
 **Your function should return 3, since we would need to remove all the columns to order it.**
+
+|**:house: [HOME](https://github.com/theInvincible/Daily-Coding-Problem/)**|
+|--------------------------------------------------------------------------|
