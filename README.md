@@ -48,7 +48,7 @@
 :dart: **[Problem 42](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2042.md) | Sum of Subset Equal to K**  
 :dart: **[Problem 43](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2043.md) | Stack with Max :heavy_check_mark:**  
 :dart: **[Problem 44](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2044.md) | Counting Inversions :white_check_mark:**  
-:dart: **[Problem 45](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2045.md) | Implement Random7 from Random5 | Implementation :heavy_check_mark:**  
+:dart: **[Problem 45](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2045.md) | Implement Random7 from Random5 :heavy_check_mark:**  
 :dart: **[Problem 46](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2046.md) | Longest Contiguous Palindrome**  
 :dart: **[Problem 47](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2047.md) | Best Time to Buy and Sell Stock :heavy_check_mark:**  
 :dart: **[Problem 48](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2048.md) | Binary Tree | Inorder & Preorder Traversal**  
@@ -74,7 +74,7 @@
 :dart: **[Problem 68](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2068.md) | N Bishops Problem**  
 :dart: **[Problem 69](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2069.md) | Largest Product of Three Elements**  
 :dart: **[Problem 70](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2070.md) | N<sup>th</sup> Perfect Number :heavy_check_mark:**  
-:dart: **[Problem 71](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2071.md) | Implement Random5 from Random7 | Implementation**  
+:dart: **[Problem 71](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2071.md) | Implement Random5 from Random7**  
 :dart: **[Problem 72](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2072.md) | Largest Value Path | Graph**  
 :dart: **[Problem 73](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2073.md) | Singly Linked List | Reverse**  
 :dart: **[Problem 74](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2074.md) | Number of X in Multiplication Tables**  
