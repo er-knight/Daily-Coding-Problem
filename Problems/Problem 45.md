@@ -24,8 +24,9 @@ def rand7():
 ```
 ### Solution | C++
 ```cpp
-int rand5():
+int rand5() {
   /* returns an integer from 1 to 5 (inclusive) with uniform probability */
+}
 
 int rand7() {
   int num = 0;
