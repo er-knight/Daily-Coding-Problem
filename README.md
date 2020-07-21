@@ -1,8 +1,8 @@
 ## Daily-Coding-Problem 
 ***[Subscribe]( https://www.dailycodingproblem.com/) to Daily Coding Problem.***
 
-:heavy_check_mark: **Solution in both Python and C++**  
-:white_check_mark: **Solution in either Python or C++ or not complete**
+:heavy_check_mark: **Solution in both Python and C++ | /79**  
+:white_check_mark: **Solution in either Python or C++ or not complete | 2/79**
 
 :dart: **[Problem 1](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%201.md) | Pair Sum :heavy_check_mark:**  
 :dart: **[Problem 2](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%202.md) | Product except** ***i :heavy_check_mark:***    
