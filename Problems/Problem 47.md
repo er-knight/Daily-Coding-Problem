@@ -61,7 +61,7 @@ int main() {
 }
 ```
 ### Approach 2:
->**Keep track on Minmimum Price and Maximum Profit.**
+>**Keep track on Minimum Price and Maximum Profit.**
 
 **:stopwatch: Time Complexity - O(n).**    
 **:floppy_disk: Space Complexity - O(1).** 
