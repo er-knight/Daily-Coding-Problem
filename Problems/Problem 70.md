@@ -2,7 +2,7 @@
 ***Asked by Microsoft.***
 ### Task
 **A number is considered perfect if its digits sum up to exactly 10.**
-**Given a positive integer** ***n*** **(*****n*** **>0), return the n<sup>th</sup> perfect number.**
+**Given a positive integer** ***n*** **(n > 0), return the n<sup>th</sup> perfect number.**
 
 >**First and only line of input contains an integer n.**
 
@@ -16,9 +16,9 @@
 **208**
 
 ### Approach
->**Starting from num = 19 (which is 1<sup>st</sup> perfect number), increment num by 9.**
->**If sum of digits of resulting number is 10, then increase count.**
->**Repeat the above process untill count becomes equal to** ***n.***
+>**Starting from num = 19 (which is 1<sup>st</sup> perfect number), increment num by 9.**  
+>**If sum of digits of resulting number is 10, then increase count.**  
+>**Repeat the above process untill count becomes equal to** ***n.***  
 
 ### Solution | Python
 ```python
@@ -40,7 +40,7 @@ while (True):
     break
 ```
 ### Solution | C++
-```
+```cpp
 #include <iostream>
 using namespace std;
 
