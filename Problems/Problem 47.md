@@ -68,6 +68,7 @@ int main() {
 
 ### Solution | Python
 ```python
+size = int(input())
 array = [int(x) for x in input().split()]
 max_profit = 0
 min_price = float('inf')
@@ -78,6 +79,11 @@ for price in array:
 
 print(max_profit)
 ```
+```
+Note:
+'inf' is used to set the value of min_price as infinity.
+```
+
 ### Solution | C++
 ```cpp
 #include <iostream>
