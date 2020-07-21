@@ -71,5 +71,8 @@ int main() {
 }
 ```
 
+### Reference
+**:green_book: [GeeksforGeeks](https://www.geeksforgeeks.org/n-th-number-whose-sum-of-digits-is-ten/)**
+
 |**:house: [HOME](https://github.com/theInvincible/Daily-Coding-Problem/)**|
 |--------------------------------------------------------------------------|
