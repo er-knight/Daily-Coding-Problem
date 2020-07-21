@@ -2,7 +2,7 @@
 ***Asked by Microsoft.***
 ### Task
 **A number is considered perfect if its digits sum up to exactly 10.**
-**Given a positive integer** ***n*** **(** ***n*** **>0), return the n<sup>th</sup> perfect number.**
+**Given a positive integer** ***n*** **(*****n*** **>0), return the n<sup>th</sup> perfect number.**
 
 >**First and only line of input contains an integer n.**
 
