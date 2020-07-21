@@ -1,7 +1,7 @@
 ## Daily-Coding-Problem 
 ***[Subscribe]( https://www.dailycodingproblem.com/) to Daily Coding Problem.***
 
-:heavy_check_mark: **Solution in both Python and C++ | 10/79**  
+:heavy_check_mark: **Solution in both Python and C++ | 11/79**  
 :white_check_mark: **Solution in either Python or C++ or not complete | 2/79**
 
 :dart: **[Problem 1](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%201.md) | Pair Sum :heavy_check_mark:**  
@@ -73,7 +73,7 @@
 :dart: **[Problem 67](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2067.md) | LFU Cache**  
 :dart: **[Problem 68](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2068.md) | N Bishops Problem**  
 :dart: **[Problem 69](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2069.md) | Largest Product of Three Elements**  
-:dart: **[Problem 70](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2070.md) | N<sup>th</sup> Perfect Number**  
+:dart: **[Problem 70](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2070.md) | N<sup>th</sup> Perfect Number :heavy_check_mark:**  
 :dart: **[Problem 71](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2071.md) | Implement Random5 from Random7 | Implementation**  
 :dart: **[Problem 72](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2072.md) | Largest Value Path | Graph**  
 :dart: **[Problem 73](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Problems/Problem%2073.md) | Singly Linked List | Reverse**  
