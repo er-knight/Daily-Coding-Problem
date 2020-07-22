@@ -79,6 +79,6 @@
 :dart: **[Problem 74](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Collection/Problems/Problem%2074.md) | Number of X in Multiplication Tables**  
 :dart: **[Problem 75](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Collection/Problems/Problem%2075.md) | Longest Increasing Subsequence**  
 :dart: **[Problem 76](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Collection/Problems/Problem%2076.md) | Ordered Columns in Matrix**  
-:dart: **[Problem 78](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Collection/Problems/Problem%2078.md) | Merge Sorted Linked Lists**  
 :dart: **[Problem 77](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Collection/Problems/Problem%2077.md) | Merge Overlapping Intervals**  
+:dart: **[Problem 78](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Collection/Problems/Problem%2078.md) | Merge Sorted Linked Lists**  
 :dart: **[Problem 79](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Collection/Problems/Problem%2079.md) | Non-Decreasing Array**  
