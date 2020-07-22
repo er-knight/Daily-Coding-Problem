@@ -39,5 +39,5 @@ int rand5() {
 ```
 
 
-|**:house: [HOME](https://github.com/theInvincible/Daily-Coding-Problem/)**|
-|--------------------------------------------------------------------------|
+|**:file_folder: [BACK TO INDEX](https://github.com/theInvincible/Daily-Coding-Problem/)**|
+|-----------------------------------------------------------------------------------|
