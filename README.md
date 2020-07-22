@@ -1,4 +1,4 @@
 ## Daily Coding Problem
 
-|**Subscribe(https://www.dailycodingproblem.com/)**|
+|**[Subscribe](https://www.dailycodingproblem.com/)**|
 |--------------------------------------------------|
