@@ -39,5 +39,5 @@ int rand5() {
 ```
 
 
-|**:file_folder: [BACK TO INDEX](https://github.com/theInvincible/Daily-Coding-Problem/)**|
-|-----------------------------------------------------------------------------------|
+|**:file_folder: [INDEX](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Collection/INDEX.md)**|
+|------------------------------------------------------------------------------------------------------------------------|
