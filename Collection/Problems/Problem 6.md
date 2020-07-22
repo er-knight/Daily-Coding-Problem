@@ -6,5 +6,5 @@
 
 ***Note: If using a language that has no pointers (such as Python), you can assume you have access to*** `get_pointer` ***and*** `dereference_pointer` ***functions that converts between nodes and memory addresses.***
 
-|**:house: [HOME](https://github.com/theInvincible/Daily-Coding-Problem/)**|
-|--------------------------------------------------------------------------|
+|**:file_folder: [INDEX](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Collection/INDEX.md)**|
+|----------------------------------------------------------------------------------------------------------------|
