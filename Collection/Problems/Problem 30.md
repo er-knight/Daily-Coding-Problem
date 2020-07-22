@@ -13,3 +13,6 @@
 
 ### Practice
 **:memo: [LeetCode](https://leetcode.com/problems/trapping-rain-water/)** 
+
+|**:file_folder: [INDEX](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Collection/INDEX.md)**|
+|----------------------------------------------------------------------------------------------------------------|
