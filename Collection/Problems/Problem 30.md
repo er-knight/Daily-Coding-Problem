@@ -8,4 +8,8 @@
 **Given the input [3, 0, 1, 3, 0, 5], we can hold 3 units in the first index, 2 in the second, and 3 in the fourth index (we cannot hold 5 since it would run off to the left), so we can trap 8 units of water.**  
 
 ### Reference
-**:green_book: [GeeksforGeeks](https://www.geeksforgeeks.org/trapping-rain-water/)**
+**:green_book: [GeeksforGeeks](https://www.geeksforgeeks.org/trapping-rain-water/)**  
+**:notebook: [Medium](https://medium.com/@harycane/trapping-rain-water-8a1817b82d98)**
+
+### Practice
+**:memo: [LeetCode](https://leetcode.com/problems/trapping-rain-water/)** 
