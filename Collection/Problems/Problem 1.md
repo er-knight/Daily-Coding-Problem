@@ -145,5 +145,5 @@ int main(){
 ### Practice
 :memo: **[HackerEarth](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/pair-sum-1-0062d9ab/)**
 
-|**:house: [HOME](https://github.com/theInvincible/Daily-Coding-Problem/)**|
-|--------------------------------------------------------------------------|
+|**:file_folder: [BACK TO INDEX](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Collection/INDEX.md)**|
+|------------------------------------------------------------------------------------------------------------------------|
