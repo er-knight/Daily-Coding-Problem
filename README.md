@@ -2,6 +2,8 @@
 **Get** ***exceptionally*** **good at coding interviews by solving one problem every day.**
 
 **SUBSCRIBE to [www.dailycodingproblem.com](https://www.dailycodingproblem.com/) and get a new problem everyday delivered to your :envelope_with_arrow: INBOX directly.**
+
+---------
 ---------
 ***This repository contains problem description and their solutions in*** **PYTHON** ***and*** **C++.**
 ***You can also*** **CONTRIBUTE** ***your solution for problems which are not solved.***
