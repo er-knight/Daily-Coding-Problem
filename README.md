@@ -6,5 +6,6 @@
 
 |**:file_folder: [INDEX](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Collection/INDEX.md)**|
 |----------------------------------------------------------------------------------------------------------------|
+
 ***By clicking above button you will be redirected to*** **INDEX** ***where all problems are listed.***  
 ***You can click on PROBLEM to view complete problem and its solution.***
