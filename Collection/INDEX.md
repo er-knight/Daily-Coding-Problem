@@ -1,6 +1,6 @@
 ## INDEX
 
-:heavy_check_mark: **Solution in both Python and C++ | 15/79**  
+:heavy_check_mark: **Solution in both Python and C++ | 16/79**  
 :white_check_mark: **Solution in either Python or C++ or not complete | 2/79**
 
 :dart: **[Problem 1](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Collection/Problems/Problem%201.md) | Pair Sum :heavy_check_mark:**  
@@ -51,7 +51,7 @@
 :dart: **[Problem 46](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Collection/Problems/Problem%2046.md) | Longest Contiguous Palindrome**  
 :dart: **[Problem 47](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Collection/Problems/Problem%2047.md) | Best Time to Buy and Sell Stock :heavy_check_mark:**  
 :dart: **[Problem 48](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Collection/Problems/Problem%2048.md) | Binary Tree | Inorder & Preorder Traversal**  
-:dart: **[Problem 49](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Collection/Problems/Problem%2049.md) | Maximum Contiguous Sum**  
+:dart: **[Problem 49](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Collection/Problems/Problem%2049.md) | Maximum Subarray Sum :heavy_check_mark:**  
 :dart: **[Problem 50](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Collection/Problems/Problem%2050.md) | Evaluate Arithmetic Expression | Binary Tree**  
 :dart: **[Problem 51](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Collection/Problems/Problem%2051.md) | Shuffling a Deck of Cards**  
 :dart: **[Problem 52](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Collection/Problems/Problem%2052.md) | LRU Cache**  
