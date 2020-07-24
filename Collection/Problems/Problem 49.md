@@ -17,7 +17,7 @@
 **Maximum sum would be 0 (can't take any elements).**
 
 ### Approach 1
-**:stopwatch: Time Complexity - O(n<sup>2</sup>).**
+**:stopwatch: Time Complexity - O(n<sup>2</sup>).**  
 **:floppy_disk: Space Complexity - O(n).**
 
 ### Solution | Python
@@ -64,7 +64,7 @@ int main() {
 ```
 
 ### Approach 2
-**:stopwatch: Time Complexity - O(n).**
+**:stopwatch: Time Complexity - O(n).**  
 **:floppy_disk: Space Complexity - O(n).**
 
 ### Solution | Python
