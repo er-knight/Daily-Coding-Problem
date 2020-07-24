@@ -36,7 +36,8 @@ def power(x, y):
   return result          
 ```
 ```
-print(power(2, 10)) 
+x, y = [int(n) for n in input().split()]
+print(power(x, y)) 
 ```
 
 ### Solution | C++
@@ -59,7 +60,9 @@ int power(int x, int y) {
 ```
 ```
 int main() {
-  cout<<power(2, 10);
+  int x, y;
+  cin>>x>>y;
+  cout<<power(x, y);
   return 0;
 }
 ```
