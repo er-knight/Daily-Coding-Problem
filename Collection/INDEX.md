@@ -1,6 +1,6 @@
 ## INDEX
 
-:heavy_check_mark: **Solution in both Python and C++ | 14/79**  
+:heavy_check_mark: **Solution in both Python and C++ | 15/79**  
 :white_check_mark: **Solution in either Python or C++ or not complete | 2/79**
 
 :dart: **[Problem 1](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Collection/Problems/Problem%201.md) | Pair Sum :heavy_check_mark:**  
@@ -63,7 +63,7 @@
 :dart: **[Problem 58](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Collection/Problems/Problem%2058.md) | Index in Rotated Array**  
 :dart: **[Problem 59](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Collection/Problems/Problem%2059.md) | File Syncing Algorithm | Implementation**  
 :dart: **[Problem 60](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Collection/Problems/Problem%2060.md) | Set Partition with Equal Sum**  
-:dart: **[Problem 61](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Collection/Problems/Problem%2061.md) | Faster Integer Exponentiation**  
+:dart: **[Problem 61](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Collection/Problems/Problem%2061.md) | Faster Integer Exponentiation :heavy_check_mark:**  
 :dart: **[Problem 62](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Collection/Problems/Problem%2062.md) | Number of Ways to Reach Bottom**  
 :dart: **[Problem 63](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Collection/Problems/Problem%2063.md) | Finding Words In a Matrix**  
 :dart: **[Problem 64](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Collection/Problems/Problem%2064.md) | Knight's Tour On a Chessboard**  
