@@ -5,5 +5,5 @@
 
 **Given an N by K matrix where the nth row and kth column represents the cost to build the nth house with kth color, return the minimum cost which achieves this goal.**
 
-|**:house: [HOME](https://github.com/theInvincible/Daily-Coding-Problem/)**|
-|--------------------------------------------------------------------------|
+|**:file_folder: [INDEX](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Collection/INDEX.md)**|
+|----------------------------------------------------------------------------------------------------------------|
