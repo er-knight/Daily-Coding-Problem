@@ -5,5 +5,8 @@
 
 **For example, given s = "abcba" and k = 2, the longest substring with k distinct characters is "bcb".**
 
-|**:house: [HOME](https://github.com/theInvincible/Daily-Coding-Problem/)**|
-|--------------------------------------------------------------------------|
+### Reference
+**:green_book: [GeeksforGeeks](https://www.geeksforgeeks.org/find-the-longest-substring-with-k-unique-characters-in-a-given-string/)**
+
+|**:file_folder: [INDEX](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Collection/INDEX.md)**|
+|----------------------------------------------------------------------------------------------------------------|
