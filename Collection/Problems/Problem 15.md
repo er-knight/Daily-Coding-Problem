@@ -3,5 +3,5 @@
 ### Task
 **Given a stream of elements too large to store in memory, pick a random element from the stream with uniform probability.**
 
-|**:house: [HOME](https://github.com/theInvincible/Daily-Coding-Problem/)**|
-|--------------------------------------------------------------------------|
+|**:file_folder: [INDEX](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Collection/INDEX.md)**|
+|----------------------------------------------------------------------------------------------------------------|
