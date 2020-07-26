@@ -73,5 +73,5 @@ Output: 3.146
 ### References
 **:green_book: [GeeksforGeeks](https://www.geeksforgeeks.org/estimating-value-pi-using-monte-carlo/)**
 
-|**:house: [HOME](https://github.com/theInvincible/Daily-Coding-Problem/)**|
-|--------------------------------------------------------------------------|
+|**:file_folder: [INDEX](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Collection/INDEX.md)**|
+|----------------------------------------------------------------------------------------------------------------|
