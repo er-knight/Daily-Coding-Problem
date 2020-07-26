@@ -7,5 +7,5 @@
 
 >***Try this Approach: Sort the list and add sum each element one by one to the SUM, untill sum becomes equal to that K. Else if SUM is less than K and all elements are used then return NULL. Else if SUM is greater than K, then also return NULL.***
 
-|**:house: [HOME](https://github.com/theInvincible/Daily-Coding-Problem/)**|
-|--------------------------------------------------------------------------|
+|**:file_folder: [INDEX](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Collection/INDEX.md)**|
+|----------------------------------------------------------------------------------------------------------------|
