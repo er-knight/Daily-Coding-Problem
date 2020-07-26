@@ -14,5 +14,5 @@
 ### Practice
 **:memo: [GeekforGeeks](https://practice.geeksforgeeks.org/problems/stickler-theif/0)**
 
-|**:house: [HOME](https://github.com/theInvincible/Daily-Coding-Problem/)**|
-|--------------------------------------------------------------------------|
+|**:file_folder: [INDEX](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Collection/INDEX.md)**|
+|----------------------------------------------------------------------------------------------------------------|
