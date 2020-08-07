@@ -10,7 +10,8 @@
 
 ### Reference
 **:notebook: [Medium](https://medium.com/@nehajirafe/implementing-lru-cache-leetcode-82e90ce63c3f)**  
-**:green_book: [GeekforGeeks](https://www.geeksforgeeks.org/lru-cache-implementation/)**
+**:green_book: [GeekforGeeks](https://www.geeksforgeeks.org/lru-cache-implementation/)**  
+**:blue_book: [LinkedIn](https://www.linkedin.com/posts/sunny-mishra_caching-in-computer-science-in-layman-terms-activity-6696993303902191616-iDP2)**
 
 ### Practice
 **:memo: [LeetCode](https://leetcode.com/problems/lru-cache/)**  
