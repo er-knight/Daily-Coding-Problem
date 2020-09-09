@@ -3,7 +3,7 @@
 Let's work through the problem of uniformly picking a random element from a gigantic stream.  
 This is a common interview question at companies like Google and Facebook.
 
-Naively, we could process the stream and store all the elements we encounter in a list, find its size, and pick a random element from**  
+Naively, we could process the stream and store all the elements we encounter in a list, find its size, and pick a random element from 
 `[0, size - 1]`. The problem with this approach is that it would take O(N) space for a large N.
 
 Instead, let's attempt to solve using loop invariants. On the i<sup>th</sup> iteration of our loop to pick a random element, let's assume we already picked an element uniformly from `[0, i - 1]`. In order to maintain the loop invariant, we would need to pick the i<sup>th</sup> element as the new random element at `1 / (i + 1)` chance.
@@ -30,6 +30,3 @@ def pick(big_stream):
 
 Since we are only storing a single variable, this only takes up constant space!
 Turns out this algorithm is called [Reservoir Sampling](https://en.wikipedia.org/wiki/Reservoir_sampling).
-
-[Post](https://www.dailycodingproblem.com/blog/how-to-solve-a-hard-programming-interview-question/) on how to solve tricky interview questions.
-
