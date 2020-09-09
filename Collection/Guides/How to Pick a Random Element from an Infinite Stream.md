@@ -9,7 +9,7 @@ Naively, we could process the stream and store all the elements we encounter in 
 Instead, let's attempt to solve using loop invariants. On the i<sup>th</sup> iteration of our loop to pick a random element, let's assume we already picked an element uniformly from `[0, i - 1]`. In order to maintain the loop invariant, we would need to pick the i<sup>th</sup> element as the new random element at `1 / (i + 1)` chance.
 For the base case where `i = 0`, let's say the random element is the first one. 
 
-Then we know it works because**  
+Then we know it works because  
 - For `i = 0`, we would've picked uniformly from `[0, 0]`.  
 - For `i > 0`, before the loop began, any element `K` in `[0, i - 1]` had `1 / i` chance of being chosen as the random element. We want`K` to have `1 / (i + 1)` chance of being chosen after the iteration. This is the case since the chance of having being chosen already but not getting swapped with the i<sup>th</sup> element is `1 / i * (1 - (1 / (i + 1)))` which is `1 / i * i / (i + 1)` or `1 / (i + 1)`.  
 
