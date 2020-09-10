@@ -1,6 +1,6 @@
 ## INDEX
 
-:heavy_check_mark: **Solution in both Python and C++ | 16/79**  
+:heavy_check_mark: **Solution in both Python and C++ | 17/79**  
 :white_check_mark: **Solution in either Python or C++ or not complete | 2/79**
 
 :dart: **[Problem 1](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Collection/Problems/Problem%201.md) | Pair Sum :heavy_check_mark:**  
@@ -32,7 +32,7 @@
 :dart: **[Problem 27](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Collection/Problems/Problem%2027.md) | Balancing Brackets :heavy_check_mark:**  
 :dart: **[Problem 28](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Collection/Problems/Problem%2028.md) | Justify Text**  
 :dart: **[Problem 29](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Collection/Problems/Problem%2029.md) | Run-Length Encoding :heavy_check_mark:**  
-:dart: **[Problem 30](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Collection/Problems/Problem%2030.md) | Trapping Rain Water**  
+:dart: **[Problem 30](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Collection/Problems/Problem%2030.md) | Trapping Rain Water :heavy_check_mark:**  
 :dart: **[Problem 31](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Collection/Problems/Problem%2031.md) | Edit Distance**  
 :dart: **[Problem 32](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Collection/Problems/Problem%2032.md) | Arbitrage's Problem**  
 :dart: **[Problem 33](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Collection/Problems/Problem%2033.md) | Running Median :heavy_check_mark:**  
