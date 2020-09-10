@@ -38,7 +38,7 @@
 **3 units of water can be stored at index 1, 2 unit at index 2 and 3 units at index 4, total 8 units of water can be stored.** 
 
 ### Approach: 
-- **pre-compute the highest bar on the left and right of every bar in linear time.**
+- **Pre-compute the highest bar on the left and right of every bar in linear time.**
 - **Use these pre-computed values to find the amount of water in every array element.**
 
 ### Solution | Python
