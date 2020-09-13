@@ -7,5 +7,8 @@
 
 **You can assume that the messages are decodable. For example, '001' is not allowed.**
 
+### Reference
+- **[YouTube](https://youtu.be/qli-JCrSwuk)**
+
 |**:file_folder: [INDEX](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Collection/INDEX.md)**|
 |----------------------------------------------------------------------------------------------------------------|
