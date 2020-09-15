@@ -19,8 +19,7 @@
 ### Reference
 **[YouTube](https://youtu.be/7HgsS8bRvjo)**
 
-### Code
-**csdojo.io/uni**
+**[Code](https://www.csdojo.io/uni)**
 
 |**:file_folder: [INDEX](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Collection/INDEX.md)**|
 |----------------------------------------------------------------------------------------------------------------|
