@@ -15,6 +15,7 @@
 
 ### Reference
 **:green_book: [GeeksforGeeks](https://www.geeksforgeeks.org/count-ways-reach-nth-stair/)**
+**[YouTube](https://youtu.be/5o-kdjv7FD0)**
 
 |**:file_folder: [INDEX](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Collection/INDEX.md)**|
 |----------------------------------------------------------------------------------------------------------------|
