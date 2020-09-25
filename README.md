@@ -8,18 +8,18 @@
 |----------------------------------------------------------------------------------------------------------------|
 
 ### Topics Covered:
-- [x] **Linked List**
-- [x] **Heaps**
-- [x] **Trees**
-- [x] **Graphs**
-- [x] **[Randomised Algorithms](https://www.geeksforgeeks.org/randomized-algorithms/)**
-- [x] **Functional Algorithms**
-- [x] **Dynamic Programming & Backtracking**
-- [x] **Arrays**
-- [x] **Stacks**
-- [x] **Queues**
-- [x] **Strings**
-- [x] **Bit Manipulation**
-- [x] **Object-Oriented Design**
-- [x] **Networking & Distributed Systems**
-- [x] **System Design**
+:heavy_check_mark: **Linked List**  
+:heavy_check_mark: **Heaps**  
+:heavy_check_mark: **Trees**  
+:heavy_check_mark: **Graphs**  
+:heavy_check_mark: **[Randomised Algorithms](https://www.geeksforgeeks.org/randomized-algorithms/)**  
+:heavy_check_mark: **Functional Algorithms**  
+:heavy_check_mark: **Dynamic Programming & Backtracking**  
+:heavy_check_mark: **Arrays**    
+:heavy_check_mark: **Stacks**  
+:heavy_check_mark: **Queues**  
+:heavy_check_mark: **Strings**  
+:heavy_check_mark: **Bit Manipulation**  
+:heavy_check_mark: **Object-Oriented Design**  
+:heavy_check_mark: **Networking & Distributed Systems**  
+:heavy_check_mark: **System Design**  
