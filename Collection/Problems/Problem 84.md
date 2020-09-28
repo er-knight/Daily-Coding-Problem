@@ -14,3 +14,6 @@
 1 1 0 0 1
 1 1 0 0 1
 ```
+
+|**:file_folder: [INDEX](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Collection/INDEX.md)**|
+|----------------------------------------------------------------------------------------------------------------|
