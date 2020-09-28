@@ -22,4 +22,4 @@ f   e   d
 ```
 
 ### Reference:
-**[Educative.io](https://www.educative.io/edpresso/how-to-invert-a-binary-tree)**
+**[educative.io](https://www.educative.io/edpresso/how-to-invert-a-binary-tree)**
