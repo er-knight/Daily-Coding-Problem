@@ -1,6 +1,8 @@
 ## Daily Coding Problem
 **Get** ***exceptionally*** **good at coding interviews by solving one problem every day.**
 
+<!-- all problems and solution are here - https://github.com/vineetjohn/daily-coding-problem -->
+
 |**SUBSCRIBE TO [Daily Coding Problem](https://www.dailycodingproblem.com/)**|
 |----------------------------------------------------------------------------|
  
