@@ -10,3 +10,6 @@
  /
 d
 ```
+
+|**:file_folder: [INDEX](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Collection/INDEX.md)**|
+|----------------------------------------------------------------------------------------------------------------|
