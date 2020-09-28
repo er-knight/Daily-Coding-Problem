@@ -23,3 +23,6 @@ f   e   d
 
 ### Reference:
 **[educative.io](https://www.educative.io/edpresso/how-to-invert-a-binary-tree)**
+
+|**:file_folder: [INDEX](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Collection/INDEX.md)**|
+|----------------------------------------------------------------------------------------------------------------|
