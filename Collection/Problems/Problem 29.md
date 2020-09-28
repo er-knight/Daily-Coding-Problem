@@ -8,7 +8,7 @@
 ### Sample input
 **AAAABBBCCDAA**
 ### Sample Output
-**Encoded:  4A3B2C1D2A**   
+**Encoded: 4A3B2C1D2A**   
 **Decoded: AAAABBBCCDAA**
 
 ### Solution | Python
@@ -33,28 +33,50 @@ print(f"Decoded: {decode}")
 ```
 ### Solution | C++
 
->***Note: C++ solution is only for ENCODING a string.***
 ```cpp
 #include <iostream>
 #include <string>
 using namespace std;
 
-int main() {
-  string message, encoded, decoded;
-  int count, i = 0;
-  cin>>message;
-  while (i < message.size()) {
-    count = 1;
-    while (i < (message.size()-1) && message[i] == message[i+1]) {
-      count += 1;
-      i += 1;
+string Decoding(const string &s) {
+    int count = 0;
+    string result;
+    for (const char &c: s) {
+        if (isdigit(c)) {
+            count = c - '0';
+        }
+        else {
+            result.append(count, c); 
+            /* appends count copies of c to result */
+            count = 0;
+        }
     }
-    encoded += to_string(count);
-    encoded += message[i];
-    i += 1;
-  }
-  cout<<"Encoded: "<<encoded;
-  return 0;
+    return result;
+}
+
+string Encoding(const string &s) {
+    string result;
+    int count = 0;
+    for (int i=0; i <= s.size(); ++i) {
+        if (i == s.size() || (s[i] != s[i-1] && i > 0)) {
+            /* new character found, write count of previous character to result */
+            result += to_string(count) + s[i-1];
+            count = 1;
+        }
+        else {
+            /* current character is same as its previous */
+            ++count;
+        }
+    }
+    return result;
+}
+
+int main() {
+    string s;
+    cin>>s;
+    cout<<"Encoded: "<<Encoding(s)<<endl;
+    cout<<"Decoded: "<<Decoding(s)<<endl;
+    return 0;
 }
 ```
 
