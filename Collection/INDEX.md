@@ -82,3 +82,10 @@
 :dart: **[Problem 77](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Collection/Problems/Problem%2077.md) | Merge Overlapping Intervals**  
 :dart: **[Problem 78](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Collection/Problems/Problem%2078.md) | Merge Sorted Linked Lists**  
 :dart: **[Problem 79](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Collection/Problems/Problem%2079.md) | Non-Decreasing Array**  
+:dart: **[Problem 80](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Collection/Problems/Problem%2080.md) | Deepest Node | Binary Tree**  
+:dart: **[Problem 81](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Collection/Problems/Problem%2081.md) | Phone Numbers**  
+:dart: **[Problem 82](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Collection/Problems/Problem%2082.md) | Implement readN() from read7()**  
+:dart: **[Probelm 83](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Collection/Problems/Problem%2083.md) | Invert Binary Tree**  
+:dart: **[Problem 84](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Collection/Problems/Problem%2084.md) | Number of Islands**  
+:dart: **[Problem 85](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Collection/Problems/Problem%2085.md) | Bit Operation**  
+:dart: **[Problem 86](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Collection/Problems/Problem%2086.md) | Valid Parentheses**
