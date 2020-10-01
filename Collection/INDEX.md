@@ -88,4 +88,10 @@
 :dart: **[Probelm 83](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Collection/Problems/Problem%2083.md) | Invert Binary Tree**  
 :dart: **[Problem 84](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Collection/Problems/Problem%2084.md) | Number of Islands**  
 :dart: **[Problem 85](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Collection/Problems/Problem%2085.md) | Bit Operation**  
-:dart: **[Problem 86](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Collection/Problems/Problem%2086.md) | Valid Parentheses**
+:dart: **[Problem 86](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Collection/Problems/Problem%2086.md) | Valid Parentheses**  
+:dart: **[Problem 87](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Collection/Problems/Problem%2087.md) | Valid Points & Directions**  
+:dart: **[Problem 88](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Collection/Problems/Problem%2088.md) | Implement Division without /, \*, %**  
+:dart: **[Problem 89](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Collection/Problems/Problem%2089.md) | Valid Binary Search Tree**   
+:dart: **[Problem 90](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Collection/Problems/Problem%2090.md) | Generate Non-uniform Random Numbers**  
+:dart: **[Problem 91](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Collection/Problems/Problem%2091.md) | Fix the Code Snippet**  
+:dart: **[Problem 92](https://github.com/theInvincible/Daily-Coding-Problem/blob/master/Collection/Problems/Problem%2092.md) | Sorting Courses**  
