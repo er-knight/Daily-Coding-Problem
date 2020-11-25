@@ -26,4 +26,4 @@
 :heavy_check_mark: **Networking & Distributed Systems**  
 :heavy_check_mark: **System Design**  
 
-[![](https://github.com/menobleknight/Daily-Coding-Problem/blob/master/twitter-icon.png)](https://twitter.com/meajaydandge)
+[<img src="https://github.com/menobleknight/Daily-Coding-Problem/blob/master/twitter-icon.png" width="30" height="30">](https://twitter.com/meajaydandge)
