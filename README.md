@@ -25,3 +25,5 @@
 :heavy_check_mark: **Object-Oriented Design**  
 :heavy_check_mark: **Networking & Distributed Systems**  
 :heavy_check_mark: **System Design**  
+
+[![]()](https://twitter.com/meajaydandge)
