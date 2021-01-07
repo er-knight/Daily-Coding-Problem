@@ -1,4 +1,4 @@
-[<img src="" width="50" height="50"](https://www.dailycodingproblem.com/)
+[<img src="https://github.com/menobleknight/Daily-Coding-Problem/blob/master/dailycodingproblem.png" width="50" height="50">](https://www.dailycodingproblem.com/)
 
 ## Daily Coding Problem
 **Get** ***exceptionally*** **good at coding interviews by solving one problem every day.**
