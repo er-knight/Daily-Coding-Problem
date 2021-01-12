@@ -1,6 +1,6 @@
 Asked by Slack.
 
-`dynamic programming`
+tags: `dynamic programming`
 
 You are given an N by M matrix of 0s and 1s. Starting from the top left corner, how many ways are there to reach the bottom right corner?
 
