@@ -22,3 +22,31 @@ while (k > 0):
 print(a)
 ```
 </details>
+
+<details>
+  <summary>Solution</summary>
+
+```cpp
+#include <iostream>
+#include <vector>
+#include <algorithm>
+using namespace std;
+
+int main() {
+    vector<int> a = {2, 3, 1, 6, 4, 8};
+
+    int k = 2;
+    
+    k = a.size() - k; // comment this line to rotate left
+    
+    while (k--) {
+        for (int i=0; i < a.size()-1; i++) {
+            swap(a[i], a[i+1]);
+        }
+    } 
+    for (int i : a) {
+        cout << i << " ";
+    }
+}
+```
+</details>
