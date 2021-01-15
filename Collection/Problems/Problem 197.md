@@ -22,7 +22,7 @@ Given an array `a` and a number `k` that's smaller than the length of the array,
 </details>
 
 <details>
-  <summary>Solution</summary>
+  <summary>Python</summary>
   
 ```python
 a = [2, 3, 1, 6, 4, 8]
@@ -41,7 +41,7 @@ print(*a, sep=' ')
 </details>
 
 <details>
-  <summary>Solution</summary>
+  <summary>C++</summary>
 
 ```cpp
 #include <iostream>
