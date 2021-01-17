@@ -31,3 +31,38 @@ if __name__ == '__main__':
     print(sun_view(a)) # 3
 ```
 </details>
+
+<details>
+<summary>C++</summary>
+    
+```cpp
+#include <iostream>
+#include <vector>
+using namespace std;
+
+int sun_view(vector<int>& a) {
+    // last building always have view of setting sun
+    int c = 1, m = a[a.size()-1];
+    
+    for (int i=a.size()-2; i >= 0; i--) {
+        if (a[i] > m) {
+            c++;
+            m = a[i];
+        }
+    }
+    return c;
+}
+    
+int main() {
+    vector<int> a = {3, 7, 8, 3, 6, 1};
+    
+    cout << sun_view(a) << endl; // 3
+    
+    a = {9, 2, 8, 4, 7};
+    
+    cout << sun_view(a) << endl; // 3
+    
+    return 0;
+}
+```
+</details>
