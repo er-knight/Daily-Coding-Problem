@@ -1,7 +1,6 @@
-[<img src="https://github.com/menobleknight/Daily-Coding-Problem/blob/master/dailycodingproblem.png" width="50" height="50">](https://www.dailycodingproblem.com/)
-
-## Daily Coding Problem
-**Get** ***exceptionally*** **good at coding interviews by solving one problem every day.**
+<p align="center"><a href="https://www.dailycodingproblem.com/"><img src="https://github.com/menobleknight/Daily-Coding-Problem/blob/master/dailycodingproblem.png" width="50" height="50"></a></p>
+<h1 align="center"> Daily Coding Problem</h1>
+<h6 align="center">Get <em>exceptionally</em> good at coding interviews by solving one problem every day.</h6>
 
 <!-- all problems and solution are here - https://github.com/vineetjohn/daily-coding-problem, https://dev.to/cwetanow/daily-coding-problem-1-23e0 -->
 
