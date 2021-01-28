@@ -1,7 +1,5 @@
-## Problem 1
-***Asked by Google.***
+Asked by Google.
 
-### Task
 **Given a list of numbers and a number K, return whether any two numbers from the list add up to K.** 
 >**First line of input contains size of the list.**  
 >**Second line of input contains space seperated elements of the list.**  
